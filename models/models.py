@@ -6,7 +6,7 @@ from torch import mean, stack, sum, concat
 
 class HGNN(Module):
 
-    def __init__(self, hid, out, layers, node_types) -> Self:  # type: ignore
+    def __init__(self, hid, out, layers, node_types, nodes_relations) -> Self:  # type: ignore
         super().__init__()
 
         # List of convolutional layers
@@ -14,23 +14,8 @@ class HGNN(Module):
         for _ in range(layers):
             self.convs.append(
                 HeteroConv(
-                    {
-                        ("activity", "follows", "activity"): GATConv(
-                            (-1, -1), hid, add_self_loops=False
-                        ),
-                        ("activity", "has", "resource_static"): GATConv(
-                            (-1, -1), hid, add_self_loops=False
-                        ),
-                        (
-                            "resource_dynamic",
-                            "resource_delta",
-                            "resource_dynamic",
-                        ): GATConv((-1, -1), hid, add_self_loops=False),
-                        ("activity", "has", "resource_dynamic"): GATConv(
-                            (-1, -1), hid, add_self_loops=False
-                        ),
-                        ('activity', 'has', 'attribute') : GATConv((-1,-1), hid, add_self_loops=False)
-                    },
+                    {relation:SAGEConv((-1, -1), hid) for relation in nodes_relations}
+                    ,
                     aggr="mean",
                 )
             )

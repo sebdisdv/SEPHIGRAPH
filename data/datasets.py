@@ -18,4 +18,6 @@ class Het_graph_data(Dataset):
 
     @staticmethod
     def collate(batch):
-        pass
+        data = [item[0] for item in batch]
+        Y = [item[1] for item in batch]
+        return [data, Y]
