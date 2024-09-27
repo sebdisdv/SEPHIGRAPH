@@ -30,14 +30,17 @@ class HGNN(Module):
 
         # Convolutional layers
         for conv in self.convs:
+            print("HEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY")
             x_dict = conv(x_dict, edge_index_dict)
+            print("HEYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY")
             x_dict = {key: x.relu() for key, x in x_dict.items()}
 
+        print(x_dict)
         # Node features of each node in the graph
         nodes_features = [
             self.linear_nodes(x_dict[key]).relu() for key in x_dict.keys()
         ]
-
+        print(nodes_features)
         # Global mean of each node type
         for i in range(len(nodes_features)):
             nodes_features[i] = mean(nodes_features[i], dim=0)
