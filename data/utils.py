@@ -53,7 +53,11 @@ def get_node_features(dataset: pd.DataFrame, trace: pd.DataFrame) -> dict:
             case "org:resource":
                 if key not in columns_static:
                     res[key] = tensor(values, dtype=float32)
-                    res[key] = res[key].reshape(res[key].shape[0], 1)
+                    
+                else:
+                    res[key] = tensor([values[0]], dtype=float32)
+                res[key] = res[key].reshape(res[key].shape[0], 1)
+                    
             case "lifecycle:transition":
                 onehot_lifecyle_transition = get_one_hot_encoder(
                     dataset, "lifecycle:transition"
