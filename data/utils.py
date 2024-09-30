@@ -49,9 +49,11 @@ def get_node_features(dataset: pd.DataFrame, trace: pd.DataFrame) -> dict:
                 res[key] = tensor(get_one_hot_encodings(onehot_activities, values), dtype=float32)
             case "time:timestamp":
                 res[key] = tensor(np.array(list(map(translate_time, values))), dtype=float32)
+                res[key] = res[key].reshape(res[key].shape[0], 1)
             case "org:resource":
                 if key not in columns_static:
                     res[key] = tensor(values, dtype=float32)
+                    res[key] = res[key].reshape(res[key].shape[0], 1)
             case "lifecycle:transition":
                 onehot_lifecyle_transition = get_one_hot_encoder(
                     dataset, "lifecycle:transition"
@@ -65,7 +67,7 @@ def get_node_features(dataset: pd.DataFrame, trace: pd.DataFrame) -> dict:
                         get_one_hot_encodings(
                             onehot_lifecyle_transition, np.array([values[0]])
                         ), dtype=float32
-                    ).flatten()
+                    )
             case "case:REG_DATE":
                 if key not in columns_static:
                     res[key] = tensor(np.array(list(map(translate_time, values))), dtype=float32)
@@ -73,11 +75,13 @@ def get_node_features(dataset: pd.DataFrame, trace: pd.DataFrame) -> dict:
                     res[key] = tensor(
                         np.array(list(map(translate_time, np.array([values[0]])))), dtype=float32
                     )
+                res[key] = res[key].reshape(res[key].shape[0], 1)
             case "case:AMOUNT_REQ":
                 if key not in columns_static:
                     res[key] = tensor(values, dtype=float32)
                 else:
                     res[key] = tensor([values[0]], dtype=float32)
+                res[key] = res[key].reshape(res[key].shape[0], 1)
 
     return res
 
