@@ -133,7 +133,7 @@ def compute_edges_features(node_features, edges_indexes):
                                         node_features[k[0]][i[1]],
                                         node_features[k[0]][i[0]],
                                         task="binary",
-                                    )
+                                    ),(i[1]-i[0])
                                 ]
                             )
                         )
