@@ -141,14 +141,15 @@ def compute_edges_features(node_features, edges_indexes):
                     for i in indexes:
                         res[k].append(
                             tensor(
-                                [node_features[k[0]][i[1]] - node_features[k[0]][i[0]]]
+                                [node_features[k[0]][i[1]] - node_features[k[0]][i[0]], i[1] - i[0]]
+                                
                             )
                         )
                 case "time:timestamp":
                     for i in indexes:
                         res[k].append(
                             tensor(
-                                [node_features[k[0]][i[1]] - node_features[k[0]][i[0]]]
+                                [node_features[k[0]][i[1]] - node_features[k[0]][i[0]], i[1] - i[0]]
                             )
                         )
 
