@@ -1,605 +1,605 @@
-org:group,resource country,org:resource,oranization country,org:role,Activity,impact,product,time:timestamp,CaseID
-Org line A2,POLAND,Miroslaw,pl,A2_1,Accepted_In Progress,Medium,PROD756,18.979693430058436,1-572730349
-Org line A2,POLAND,Miroslaw,pl,A2_1,Completed_Closed,Medium,PROD756,18.979694293435752,1-572730349
-Org line C,Sweden,Peter,se,C_5,Accepted_In Progress,Major,PROD601,18.975618113707494,1-745402650
-Org line C,Sweden,Peter,se,C_5,Accepted_Wait,Major,PROD601,18.975620289575268,1-745402650
-Org line C,Sweden,Kjell,se,E_7,Accepted_In Progress,Low,PROD673,18.975618888753285,1-745418021
-Org line A2,Sweden,Ann-Charlotte,se,A2_3,Accepted_In Progress,Low,PROD368,18.975709645332405,1-745542401
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.97569941560804,1-745546187
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.976112097913827,1-745546187
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.976117807453157,1-745546187
-Org line A2,Sweden,Åsa,se,D_1,Accepted_In Progress,Major,PROD617,18.97571229746608,1-745590142
-Org line A2,Sweden,Åsa,se,D_1,Completed_Closed,Major,PROD617,18.98359191329204,1-745590142
-Org line C,Belgium,Steve,se,E_10,Accepted_In Progress,Medium,PROD646,18.975755895928156,1-745625831
-Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.975752566553716,1-745647199
-Org line G4,Sweden,Christoffer,se,NAN,Accepted_Wait,Low,PROD412,18.97575281912734,1-745647199
-Org line G1,Sweden,Gunilla,se,E_6,Queued_Awaiting Assignment,High,PROD295,18.97584462541297,1-745770713
-Org line G1,Sweden,Peter,se,E_6,Accepted_In Progress,High,PROD295,18.976046031295347,1-745770713
-Org line G1,Sweden,Peter,se,E_6,Completed_Closed,High,PROD295,18.97604686339577,1-745770713
-Org line G1,Sweden,Peter,se,E_6,Accepted_In Progress,High,PROD295,18.982611558715572,1-745770713
-Org line C,Sweden,Susan,se,E_6,Queued_Awaiting Assignment,High,PROD295,18.982612140224777,1-745770713
-Org line G1,Sweden,Peter,se,E_6,Accepted_In Progress,High,PROD295,18.982612145925845,1-745770713
-Org line C,Sweden,Susan,se,E_6,Queued_Awaiting Assignment,High,PROD295,18.982612328360037,1-745770713
-Org line C,Sweden,Susan,se,E_6,Accepted_In Progress,High,PROD295,18.98298575268998,1-745770713
-Org line C,Sweden,Lars,se,E_6,Accepted_Assigned,High,PROD295,18.982986083228408,1-745770713
-Org line A2,Sweden,Avvaru,se,A2_4,Accepted_In Progress,Medium,PROD243,18.976010961937053,1-745886321
-Org line A2,Sweden,Vikrant,se,A2_4,Accepted_In Progress,Medium,PROD337,18.97609474530476,1-745966287
-Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Medium,PROD681,18.976094894501756,1-745991925
-Org line C,USA,Michael,us,V3_2,Queued_Awaiting Assignment,Medium,PROD611,18.976123803868912,1-745995763
-Org line C,USA,Jennifer,us,V3_2,Accepted_Assigned,Medium,PROD611,18.986577684084807,1-745995763
-Org line C,USA,Jennifer,us,V3_2,Accepted_Assigned,Medium,PROD611,18.990556766625264,1-745995763
-Org line A2,Sweden,Kristina,se,A2_3,Accepted_In Progress,Medium,PROD231,18.976126483595237,1-746009843
-Org line C,Sweden,Rakesh,in,E_10,Accepted_In Progress,High,PROD154,18.976131429880645,1-746011641
-Org line C,Sweden,Rakesh,in,E_10,Completed_Closed,High,PROD154,18.97861221135887,1-746011641
-Org line C,Belgium,Steven,be,E_6,Accepted_In Progress,Medium,PROD327,18.976112086437332,1-746018291
-Org line C,Belgium,Steven,be,E_6,Queued_Awaiting Assignment,Medium,PROD327,18.976113061938836,1-746018291
-Org line C,Belgium,Robert,be,E_6,Accepted_In Progress,Medium,PROD327,18.97612211110447,1-746018291
-Org line C,Belgium,Steven,be,E_6,Accepted_In Progress,Medium,PROD327,18.976113739051083,1-746018381
-Org line C,Belgium,Steven,be,E_6,Queued_Awaiting Assignment,Medium,PROD327,18.976115810552656,1-746018381
-Org line C,Belgium,Robert,be,E_6,Accepted_In Progress,Medium,PROD327,18.97612224308282,1-746018381
-Org line B,Australia,Marilyn,au,A2_1,Accepted_In Progress,Medium,PROD327,18.976121497118015,1-746018891
-Org line B,Australia,Marilyn,au,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.976121944696963,1-746018891
-Org line C,Australia,John,au,E_2,Queued_Awaiting Assignment,Medium,PROD327,18.97654679612189,1-746018891
-Org line B,Australia,Marilyn,au,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.98000311170144,1-746018891
-Org line B,Australia,Marilyn,au,A2_1,Accepted_In Progress,Medium,PROD327,18.986929854108315,1-746018891
-Org line C,Australia,John,au,E_2,Queued_Awaiting Assignment,Medium,PROD327,18.986931659235736,1-746018891
-Org line G4,Sweden,Göran,se,NAN,Accepted_In Progress,Low,PROD193,18.97613645073698,1-746049852
-Org line G4,Sweden,Göran,se,NAN,Accepted_In Progress,Low,PROD193,18.98298941140237,1-746049852
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.97621489332274,1-746052232
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.97622211126923,1-746052232
-Org line G4,Sweden,Fredrik,se,NAN,Accepted_In Progress,Low,PROD108,18.97612619668698,1-746057054
-Org line A2,Sweden,Viktoria,se,A2_3,Accepted_In Progress,Medium,PROD231,18.976154973175227,1-746118131
-Org line A2,Sweden,Viktoria,se,A2_3,Queued_Awaiting Assignment,Medium,PROD231,18.98359035272767,1-746118131
-Org line C,INDIA,Hineesh,us,E_4,Accepted_In Progress,High,PROD793,18.976158616799122,1-746123906
-Org line C,INDIA,Hineesh,us,E_4,Completed_Closed,High,PROD793,18.979106824466484,1-746123906
-Org line A2,Sweden,Ann-Charlotte,se,A2_3,Accepted_In Progress,Medium,PROD368,18.97615639046043,1-746129221
-Org line A2,POLAND,Miroslaw,pl,A2_1,Accepted_In Progress,Medium,PROD327,18.97616219155423,1-746148231
-Org line A2,POLAND,Miroslaw,pl,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.97616250140399,1-746148231
-Org line C,Belgium,Steven,be,E_6,Accepted_In Progress,Medium,PROD327,18.97617153864644,1-746148741
-Org line C,Belgium,Steven,be,E_6,Queued_Awaiting Assignment,Medium,PROD327,18.976171842755402,1-746148741
-Org line C,Belgium,Robert,be,E_6,Accepted_In Progress,Medium,PROD327,18.976175262540362,1-746148741
-Org line C,Belgium,Katia,be,A2_1,Accepted_In Progress,Medium,PROD327,18.976182027483212,1-746175541
-Org line C,Belgium,Katia,be,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.976182463559383,1-746175541
-Org line C,Belgium,Els,se,C_2,Accepted_In Progress,Medium,PROD327,18.97619687117962,1-746205481
-Org line C,Belgium,Els,se,C_2,Queued_Awaiting Assignment,Medium,PROD327,18.976200767111365,1-746205481
-Org line C,Belgium,Els,se,E_2,Accepted_In Progress,Medium,PROD327,18.976201025309546,1-746205481
-Org line C,Belgium,Ilona,be,A2_1,Accepted_In Progress,Medium,PROD327,18.97620344663146,1-746245931
-Org line C,Belgium,Ilona,be,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.976204353191235,1-746245931
-Org line C,Sweden,Leif,se,E_10,Accepted_In Progress,High,PROD646,18.976235611787637,1-746246761
-Org line G4,Sweden,Roland,se,NAN,Accepted_In Progress,High,PROD374,18.976260191099012,1-746306469
-Org line C,Belgium,Emmanuel,gb,E_10,Accepted_In Progress,Medium,PROD494,18.976245440142197,1-746318085
-Org line C,Belgium,Emmanuel,gb,E_10,Accepted_In Progress,Medium,PROD494,18.980075135952944,1-746318085
-Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976253902891987,1-746331441
-Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976251212032192,1-746341261
-Org line C,Sweden,Vesa,se,C_6,Accepted_In Progress,Low,PROD805,18.976591379136114,1-746464884
-Org line C,Sweden,Vesa,se,C_6,Queued_Awaiting Assignment,Low,PROD805,18.97659257211884,1-746464884
-Org line C,Sweden,Amitabh,se,C_6,Accepted_In Progress,Low,PROD805,18.97659748742207,1-746464884
-Org line C,Sweden,Amitabh,se,C_6,Accepted_In Progress,Low,PROD805,18.979151831253652,1-746464884
-Org line C,Sweden,Amitabh,se,C_6,Accepted_Wait,Low,PROD805,18.987518595604744,1-746464884
-Org line C,INDIA,Jubin,us,E_4,Accepted_In Progress,Medium,PROD436,18.976475394919554,1-746534906
-Org line C,INDIA,Jubin,us,E_4,Accepted_Assigned,Medium,PROD436,18.97897611766735,1-746534906
-Org line C,Sweden,Vaibhav,us,E_4,Accepted_In Progress,Medium,PROD436,18.979146396449806,1-746534906
-Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976555617671092,1-746538521
-Org line A2,POLAND,Tomasz,be,A2_1,Accepted_In Progress,Medium,PROD558,18.97655641493341,1-746538521
-Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976556804960786,1-746538521
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.9766943145434,1-746582460
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97670370254198,1-746582460
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.976633952826205,1-746599948
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.976634147824793,1-746599948
-Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,High,PROD98,18.976725976463328,1-746662619
-Org line G3,POLAND,Ewa,us,NAN,Completed_Closed,High,PROD98,18.97720715897148,1-746662619
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.97709000217611,1-746854891
-Org line A2,POLAND,Mariusz,pl,D_1,Accepted_In Progress,High,PROD405,18.97713655011451,1-746973401
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.977186569535593,1-747003445
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97718879358194,1-747003445
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD235,18.977183778006502,1-747011587
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD235,18.97718405887939,1-747011587
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.977201547360462,1-747011867
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97720255619173,1-747011867
-Org line C,USA,Timothy,us,E_1,Accepted_In Progress,Medium,PROD332,18.977190266723323,1-747042322
-Org line C,USA,Stephen,us,C_6,Accepted_In Progress,High,PROD785,18.977206534186926,1-747064611
-Org line C,USA,Stephen,us,C_6,Queued_Awaiting Assignment,High,PROD785,18.977211813317503,1-747064611
-Org line C,USA,Kymaria,us,V3_3,Accepted_In Progress,High,PROD785,18.977211819049444,1-747064611
-Org line C,USA,Stephen,us,C_6,Queued_Awaiting Assignment,High,PROD785,18.977249763771404,1-747064611
-Org line C,USA,Stephen,us,C_6,Accepted_In Progress,High,PROD785,18.977285391522962,1-747064611
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.977252429018755,1-747090194
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.977254910844845,1-747090194
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.977255077063923,1-747090194
-Org line C,Sweden,Daniel,se,E_10,Accepted_In Progress,High,PROD802,18.977271377862866,1-747147181
-Org line C,Sweden,Daniel,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.982555048090337,1-747147181
-Org line C,Sweden,Hampus,se,E_10,Accepted_In Progress,High,PROD802,18.982594175995082,1-747147181
-Org line C,Sweden,Hampus,se,E_10,Accepted_Wait,High,PROD802,18.983118677315144,1-747147181
-Org line C,USA,Thomas,us,NAN,Accepted_In Progress,High,PROD306,18.977293507319747,1-747173974
-Org line C,INDIA,-,in,E_7,Accepted_In Progress,High,PROD631,18.97758007995652,1-747371909
-Org line C,INDIA,-,in,E_7,Queued_Awaiting Assignment,High,PROD631,18.97758338033281,1-747371909
-Org line C,INDIA,Rajkishore,in,E_7,Accepted_In Progress,High,PROD631,18.97781998778242,1-747371909
-Org line C,INDIA,Rajesh Kumar,in,E_7,Queued_Awaiting Assignment,High,PROD631,18.977820738209736,1-747371909
-Org line C,Sweden,Stefan,in,E_7,Accepted_In Progress,High,PROD631,18.978563184795025,1-747371909
-Org line C,Sweden,Peter,in,E_7,Queued_Awaiting Assignment,High,PROD631,18.978563986182586,1-747371909
-Org line C,Sweden,Stefan,in,E_7,Accepted_In Progress,High,PROD631,18.978564175080987,1-747371909
-Org line C,INDIA,Rajesh Kumar,in,E_7,Accepted_Assigned,High,PROD631,18.978564661637314,1-747371909
-Org line C,Sweden,Praveen,in,E_10,Queued_Awaiting Assignment,High,PROD631,18.989979675705975,1-747371909
-Org line C,Sweden,Kim,se,C_4,Accepted_In Progress,Medium,PROD276,18.977587798006937,1-747372912
-Org line C,Sweden,Kim,se,C_4,Accepted_Assigned,Medium,PROD276,18.98249194306526,1-747372912
-Org line C,Sweden,Stefan,se,C_4,Queued_Awaiting Assignment,Medium,PROD276,18.990364055307868,1-747372912
-Org line A2,Sweden,Henrik,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.978548565083546,1-747473781
-Org line A2,POLAND,Piotr,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.978548570807828,1-747473781
-Org line A2,POLAND,Krzysztof,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.978549103165985,1-747473781
-Org line A2,POLAND,Piotr,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.978549108890267,1-747473781
-Org line A2,POLAND,Krzysztof,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.97854968704235,1-747473781
-Org line A2,POLAND,Krzysztof,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.978572578161703,1-747473781
-Org line A2,POLAND,Krzysztof,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.978573036093227,1-747473781
-Org line A2,POLAND,Krzysztof,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.97857313340365,1-747473781
-Org line A2,POLAND,Pawel,pl,A2_2,Accepted_Assigned,Medium,PROD767,18.978573236438205,1-747473781
-Org line A2,POLAND,Miroslaw,pl,A2_1,Accepted_In Progress,Medium,PROD761,18.978569372635157,1-747590161
-Org line C,INDIA,Bhaskar,se,E_5,Accepted_In Progress,High,PROD802,18.97859870281994,1-747681195
-Org line C,INDIA,Bhaskar,se,E_5,Queued_Awaiting Assignment,High,PROD802,18.978601616329577,1-747681195
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.97861168475823,1-747681195
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.979626467444742,1-747681195
-Org line A2,POLAND,Piotr,se,A2_5,Accepted_In Progress,Medium,PROD320,18.978626635529498,1-747689792
-Org line A2,POLAND,Piotr,se,A2_5,Accepted_Assigned,Medium,PROD320,18.978646308160155,1-747689792
-Org line A2,POLAND,Piotr,se,A2_5,Accepted_Wait,Medium,PROD320,18.97864705796763,1-747689792
-Org line C,France,Cyril,fr,E_6,Accepted_In Progress,High,PROD612,18.97861866219423,1-747770943
-Org line C,France,Louis,fr,V3_3,Accepted_In Progress,Medium,PROD612,18.978713765688234,1-748028911
-Org line C,France,Louis,fr,V3_3,Accepted_In Progress,Medium,PROD612,18.9787159806173,1-748028911
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.979072537397776,1-748341571
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Wait,High,PROD236,18.979105428520015,1-748341571
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97910844925418,1-748341709
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Wait,Medium,PROD236,18.97910859228114,1-748341709
-Org line A2,United Kingdom,Rosemary,gb,A2_1,Accepted_In Progress,High,PROD236,18.979079231277947,1-748373500
-Org line A2,United Kingdom,Rosemary,gb,A2_1,Accepted_Wait,High,PROD236,18.97908004369454,1-748373500
-Org line V2,Sweden,Björn,se,NAN,Accepted_In Progress,Medium,PROD449,18.979100548413157,1-748414511
-Org line A2,China,Fiona,cn,D_1,Accepted_In Progress,Medium,PROD607,18.97910697893585,1-748432219
-Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,High,PROD98,18.979099455677876,1-748438405
-Org line G3,POLAND,Ewa,us,NAN,Completed_Closed,High,PROD98,18.97910122350556,1-748438405
-Org line C,Sweden,Christer,se,C_6,Accepted_In Progress,Medium,PROD805,18.979146425054115,1-748531941
-Org line C,Sweden,Christer,se,C_6,Accepted_Assigned,Medium,PROD805,18.979151036057882,1-748531941
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD818,18.979208248493606,1-748720121
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD818,18.98953254827317,1-748720121
-Org line C,Sweden,Tarun,in,E_10,Accepted_In Progress,High,PROD154,18.979228355876586,1-748764090
-Org line A2,Sweden,Dusan,se,A2_3,Accepted_In Progress,Major,PROD617,18.979248171121053,1-748801231
-Org line G4,Sweden,Katarina,se,NAN,Accepted_In Progress,High,PROD374,18.97933278191565,1-748843986
-Org line G4,Sweden,Katarina,se,NAN,Accepted_Assigned,High,PROD374,18.989008387519014,1-748843986
-Org line G4,Sweden,Peter,se,NAN,Accepted_In Progress,Medium,PROD502,18.979544637857735,1-748947671
-Org line G4,Sweden,Peter,se,NAN,Accepted_Assigned,Medium,PROD502,18.979545650046568,1-748947671
-Org line G4,Sweden,Christer,se,NAN,Accepted_In Progress,Medium,PROD412,18.97959078004639,1-749042472
-Org line A2,United Kingdom,Andrew,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.979727072633782,1-749053411
-Org line C,Sweden,Christer,se,C_6,Accepted_In Progress,Major,PROD805,18.979631179161174,1-749112097
-Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,High,PROD802,18.979605298755487,1-749119026
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.979607906268154,1-749119026
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.979627736865673,1-749119026
-Org line C,Sweden,Christian,se,C_6,Accepted_In Progress,High,PROD802,18.9796947965957,1-749119026
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.97970822172444,1-749119026
-Org line A2,Sweden,Hongming,se,A2_4,Accepted_In Progress,Medium,PROD67,18.979653222151303,1-749162875
-Org line A2,Sweden,Hongming,se,A2_4,Accepted_Assigned,Medium,PROD67,18.9796548288976,1-749162875
-Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD589,18.979649859983432,1-749184198
-Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD589,18.97966675647802,1-749184198
-Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD589,18.97966670501705,1-749184744
-Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD589,18.97966679650322,1-749184744
-Org line A2,Brazil,Henrique,br,A2_2,Accepted_In Progress,Medium,PROD134,18.97966311989619,1-749184751
-Org line A2,Brazil,Henrique,br,A2_2,Queued_Awaiting Assignment,Medium,PROD134,18.982253752424327,1-749184751
-Org line A2,Brazil,Flavio,br,A2_2,Accepted_Assigned,Medium,PROD134,18.98309794141621,1-749184751
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.979698267248896,1-749184839
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97969920495214,1-749184839
-Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.979689702089537,1-749285083
-Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.97969172045479,1-749285250
-Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.979693412905235,1-749285407
-Org line G4,Sweden,Erik,se,NAN,Accepted_In Progress,Medium,PROD343,18.97969888476089,1-749290225
-Org line G4,Sweden,Erik,se,NAN,Accepted_In Progress,Medium,PROD343,18.985522805383376,1-749290225
-Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD589,18.979702721331478,1-749306975
-Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD521,18.980028936087226,1-749307260
-Org line A2,United Kingdom,Timothy,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.979717735846243,1-749313527
-Org line A2,United Kingdom,Timothy,gb,A2_1,Accepted_Wait,Medium,PROD236,18.97972045169974,1-749313527
-Org line A2,Sweden,Britt,se,A2_1,Accepted_In Progress,Medium,PROD350,18.97976532796682,1-749375951
-Org line A2,Sweden,Britt,se,A2_1,Accepted_Wait,Medium,PROD350,18.979767626327614,1-749375951
-Org line A2,USA,Joakim,us,A2_4,Accepted_Wait,Low,PROD546,18.97982772487209,1-749402183
-Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD557,18.980034863369852,1-749527522
-Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD557,18.980048832641433,1-749527522
-Org line A2,POLAND,Piotr,pl,A2_2,Accepted_Assigned,Medium,PROD442,18.980040979236993,1-749550065
-Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD521,18.980048581150545,1-749572004
-Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD521,18.98005139898803,1-749572004
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98007853098446,1-749614245
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.980080908642766,1-749614245
-Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Medium,PROD236,18.980117310114238,1-749657781
-Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.980170301063872,1-749730150
-Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.982021272239102,1-749730150
-Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.986024399147933,1-749730150
-Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.988882656821765,1-749730150
-Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,Medium,PROD98,18.980170323923897,1-749747547
-Org line G3,POLAND,Ewa,us,NAN,Completed_Closed,Medium,PROD98,18.980170918284443,1-749747547
-Org line C,INDIA,Anup,in,E_8,Accepted_In Progress,Medium,PROD597,18.98015826518653,1-749760823
-Org line C,France,Jonathan,fr,E_6,Accepted_In Progress,Low,PROD525,18.980189011822,1-749821849
-Org line A2,Belgium,Marc,be,A2_4,Accepted_In Progress,Medium,PROD41,18.98016821508411,1-749840934
-Org line A2,Belgium,Marc,be,A2_4,Queued_Awaiting Assignment,Medium,PROD41,18.980169146631773,1-749840934
-Org line A2,Belgium,Marc,be,A2_4,Accepted_In Progress,Medium,PROD41,18.983175435294317,1-749840934
-Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,Medium,PROD802,18.980179039271516,1-749851721
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD802,18.980179879369864,1-749851721
-Org line C,Sweden,Raja,se,E_10,Accepted_In Progress,Medium,PROD802,18.98018821173566,1-749851721
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,Medium,PROD802,18.980188663213028,1-749851721
-Org line C,Sweden,Steve,se,C_6,Queued_Awaiting Assignment,Medium,PROD802,18.98053448071858,1-749851721
-Org line C,Sweden,Lennart,se,C_6,Accepted_In Progress,Medium,PROD802,18.98053560045148,1-749851721
-Org line C,Sweden,Lennart,se,C_6,Accepted_Wait,Medium,PROD802,18.982055087579077,1-749851721
-Org line A2,Sweden,Agneta,se,A2_3,Accepted_In Progress,Low,PROD530,18.98020229887657,1-749871888
-Org line A2,POLAND,Janusz,pl,A2_1,Accepted_In Progress,Medium,PROD756,18.980203538992654,1-749886936
-Org line B,INDIA,Murali,in,E_10,Accepted_In Progress,High,PROD209,18.980236358648845,1-749931426
-Org line C,Belgium,Astrid,be,V3_2,Accepted_In Progress,Low,PROD424,18.980215368594138,1-749938024
-Org line C,Belgium,Astrid,be,V3_2,Accepted_Wait,Low,PROD424,18.980216608694015,1-749938024
-Org line C,INDIA,Shamna,in,E_4,Accepted_In Progress,Medium,PROD436,18.980447686177687,1-750007716
-Org line C,INDIA,Shamna,in,E_4,Queued_Awaiting Assignment,Medium,PROD436,18.980448880282182,1-750007716
-Org line C,INDIA,Avronil,in,E_4,Accepted_In Progress,Medium,PROD436,18.98046536334924,1-750007716
-Org line C,INDIA,Avronil,in,E_4,Accepted_Wait,Medium,PROD436,18.98046586040805,1-750007716
-Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,Medium,PROD802,18.980539245287652,1-750090643
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD802,18.980549128553992,1-750090643
-Org line C,Sweden,Arun,se,E_10,Accepted_In Progress,Medium,PROD802,18.98309619773487,1-750090643
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,Medium,PROD802,18.983096887230143,1-750090643
-Org line C,France,Aurelien,se,C_6,Accepted_In Progress,Medium,PROD802,18.98311409026819,1-750090643
-Org line C,France,Aurelien,se,C_6,Accepted_Wait,Medium,PROD802,18.983599055405925,1-750090643
-Org line C,Sweden,Tomas,se,C_6,Accepted_In Progress,Medium,PROD424,18.980542267406626,1-750106623
-Org line C,Sweden,Tomas,se,C_6,Queued_Awaiting Assignment,Medium,PROD424,18.980545797961277,1-750106623
-Org line C,Sweden,Kenneth,se,C_6,Accepted_In Progress,Medium,PROD424,18.98298125051773,1-750106623
-Org line C,Sweden,Tomas,se,C_6,Accepted_Assigned,Medium,PROD424,18.98702375614567,1-750106623
-Org line C,Sweden,Tomas,se,C_6,Accepted_In Progress,Medium,PROD424,18.98702648628517,1-750106623
-Org line V2,Sweden,Åsa,se,NAN,Accepted_In Progress,Medium,PROD615,18.980551984971157,1-750161066
-Org line V2,Sweden,Åsa,se,NAN,Accepted_Assigned,Medium,PROD615,18.980555458363433,1-750161066
-Org line V2,Sweden,Åsa,se,NAN,Accepted_In Progress,Medium,PROD615,18.980552270612424,1-750161245
-Org line V2,Sweden,Åsa,se,NAN,Accepted_Assigned,Medium,PROD615,18.980552984715235,1-750161245
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.980562170888337,1-750179984
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.982037392852504,1-750179984
-Org line G4,Sweden,Ingela,se,NAN,Accepted_In Progress,Low,PROD406,18.980576784042057,1-750196720
-Org line A2,INDIA,Pramod,us,A2_4,Accepted_Wait,Low,PROD552,18.980581891168956,1-750209134
-Org line A2,INDIA,Pramod,us,A2_4,Accepted_Wait,Medium,PROD552,18.98058402198712,1-750209298
-Org line C,POLAND,Marcin,pl,C_6,Accepted_In Progress,High,PROD452,18.980599480280002,1-750239221
-Org line G4,Sweden,Lars-Göran,se,NAN,Accepted_In Progress,Low,PROD374,18.980637176718893,1-750255303
-Org line C,Sweden,Christoffer,se,V3_2,Accepted_In Progress,Low,PROD412,18.98065267988813,1-750293610
-Org line C,INDIA,Mohsin,in,E_5,Queued_Awaiting Assignment,High,PROD745,18.980672975309787,1-750411941
-Org line C,INDIA,Mohsin,in,E_5,Accepted_In Progress,High,PROD745,18.981999783388204,1-750411941
-Org line C,INDIA,Mohsin,in,E_5,Accepted_Wait,High,PROD745,18.98200197393728,1-750411941
-Org line C,Belgium,Peter,in,E_1,Queued_Awaiting Assignment,High,PROD745,18.982037210313397,1-750411941
-Org line C,INDIA,Mohsin,in,E_5,Accepted_In Progress,High,PROD745,18.98203756398289,1-750411941
-Org line C,INDIA,Mohsin,in,E_5,Accepted_Wait,High,PROD745,18.982038111599916,1-750411941
-Org line D,Belgium,Wim,us,D_2,Accepted_In Progress,Medium,PROD618,18.980685616184676,1-750437951
-Org line D,Belgium,Wim,us,D_2,Queued_Awaiting Assignment,Medium,PROD618,18.980689877374452,1-750437951
-Org line C,France,Celine,fr,V3_3,Accepted_In Progress,Medium,PROD374,18.980728946954343,1-750473129
-Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,High,PROD802,18.980771796074727,1-750499270
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.98077705641738,1-750499270
-Org line C,Sweden,Kreeti,se,E_10,Accepted_In Progress,High,PROD802,18.98077795312884,1-750499270
-Org line C,Sweden,Sandeep,se,E_10,Accepted_Assigned,High,PROD802,18.98079660682947,1-750499270
-Org line C,Sweden,Sandeep,se,E_10,Accepted_Wait,High,PROD802,18.980872908607953,1-750499270
-Org line C,Sweden,Sandeep,se,E_10,Accepted_In Progress,High,PROD802,18.98285337466336,1-750499270
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.982853614050473,1-750499270
-Org line C,Sweden,Martin,se,C_6,Accepted_In Progress,High,PROD802,18.98299009527236,1-750499270
-Org line C,Belgium,Peter,be,E_5,Accepted_In Progress,Medium,PROD745,18.98203641740876,1-750717620
-Org line C,Belgium,Peter,be,E_5,Accepted_In Progress,Medium,PROD745,18.98203669121763,1-750717620
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.9820389330249,1-750717620
-Org line C,Sweden,Kell,be,E_1,Accepted_Assigned,Medium,PROD745,18.982596040276388,1-750717620
-Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Low,PROD236,18.982053342078384,1-750823791
-Org line C,Sweden,Lars-Ove,us,E_4,Accepted_In Progress,Medium,PROD815,18.982041648286007,1-750838075
-Org line C,Sweden,Ranveer,in,E_10,Accepted_In Progress,Low,PROD805,18.982169120356232,1-751087171
-Org line C,Sweden,Ranveer,in,E_10,Accepted_Wait,Low,PROD805,18.982170494921736,1-751087171
-Org line C,Sweden,Ranveer,in,E_10,Accepted_In Progress,Low,PROD805,18.98366531971622,1-751087171
-Org line C,Sweden,Ranveer,in,E_10,Accepted_Wait,Low,PROD805,18.98366944863191,1-751087171
-Org line C,Sweden,Habib,us,E_4,Accepted_In Progress,Major,PROD348,18.982222185198207,1-751140095
-Org line C,Sweden,Habib,us,E_4,Accepted_Assigned,Major,PROD348,18.982538074894954,1-751140095
-Org line C,Sweden,Johnny,se,E_2,Accepted_In Progress,High,PROD328,18.982487313230074,1-751197742
-Org line C,Sweden,Rolf,se,E_3,Accepted_In Progress,Medium,PROD714,18.982515337089378,1-751277838
-Org line A2,China,Yu,cn,A2_2,Accepted_In Progress,Low,PROD753,18.982553999033204,1-751447190
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98256909622764,1-751457471
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.982569187448664,1-751457471
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.982597112094037,1-751461582
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.982600088092337,1-751461582
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98260058979233,1-751461582
-Org line A2,Sweden,Tomas,cn,A2_2,Accepted_In Progress,Low,PROD753,18.98259149073975,1-751492205
-Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_Wait,Medium,PROD698,18.982625503441167,1-751548681
-Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.982625583255064,1-751548681
-Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.98262577138779,1-751548681
-Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_Wait,Medium,PROD698,18.98263902040372,1-751548681
-Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Low,PROD236,18.982630400581982,1-751568641
-Org line G4,Sweden,Charlotta,se,NAN,Accepted_In Progress,Low,PROD412,18.98265287923383,1-751683081
-Org line G4,Sweden,Charlotta,se,NAN,Accepted_Assigned,Low,PROD412,18.98265345501817,1-751683081
-Org line A2,POLAND,Anna,fr,A2_2,Accepted_In Progress,Medium,PROD200,18.982672125073407,1-751689562
-Org line A2,POLAND,Bartlomiej,pl,D_1,Accepted_In Progress,Medium,PROD74,18.982706328850494,1-751729551
-Org line A2,POLAND,Bartlomiej,pl,D_1,Accepted_In Progress,Medium,PROD74,18.982706477064315,1-751729551
-Org line A2,Brazil,Carla,br,A2_2,Accepted_In Progress,Major,PROD126,18.9827284010669,1-751772104
-Org line A2,Brazil,Carla,br,A2_2,Accepted_Wait,Major,PROD126,18.98308892096653,1-751772104
-Org line A2,China,Cindy,cn,A2_2,Accepted_In Progress,Low,PROD753,18.982974582706408,1-751904239
-Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,Medium,PROD350,18.983086681511896,1-752141231
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD350,18.983154432767353,1-752141231
-Org line C,Sweden,Gaurav,se,E_10,Accepted_In Progress,Medium,PROD350,18.98315807946673,1-752141231
-Org line B,INDIA,Ganesh,se,C_6,Queued_Awaiting Assignment,Medium,PROD350,18.98315988001964,1-752141231
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD350,18.983384781190342,1-752141231
-Org line C,Sweden,Umar Farooque,se,E_10,Accepted_In Progress,Medium,PROD350,18.983393924297147,1-752141231
-Org line B,INDIA,Ganesh,se,C_6,Queued_Awaiting Assignment,Medium,PROD350,18.983465733231277,1-752141231
-Org line B,INDIA,Anandgiri,se,C_6,Accepted_In Progress,Medium,PROD350,18.983573545181137,1-752141231
-Org line A2,Sweden,Britt,se,A2_1,Queued_Awaiting Assignment,Medium,PROD350,18.99044472718147,1-752141231
-Org line A2,France,Frederic,fr,A2_2,Accepted_In Progress,Medium,PROD196,18.98308893236323,1-752141295
-Org line A2,France,Frederic,fr,A2_2,Queued_Awaiting Assignment,Medium,PROD196,18.983089570578386,1-752141295
-Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Low,PROD236,18.983106152632885,1-752158401
-Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Medium,PROD521,18.983122130407416,1-752184442
-Org line G4,Sweden,Johan,se,NAN,Accepted_In Progress,Medium,PROD412,18.983508653212304,1-752195185
-Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Medium,PROD236,18.98314618206093,1-752253951
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD235,18.98316828445634,1-752262129
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD235,18.98317968588772,1-752262129
-Org line C,Sweden,Jari,us,E_1,Queued_Awaiting Assignment,Medium,PROD153,18.983203730459294,1-752294640
-Org line C,Sweden,Maria,us,E_1,Accepted_Assigned,Medium,PROD153,18.989444419228526,1-752294640
-Org line C,Sweden,Maria,us,E_1,Accepted_Assigned,Medium,PROD153,18.98947309811577,1-752294640
-Org line C,USA,William,us,E_1,Queued_Awaiting Assignment,Medium,PROD153,18.989473103777858,1-752294640
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.9832060836055,1-752294659
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.983207075002,1-752294659
-Org line C,INDIA,Ruhi,se,E_7,Accepted_Assigned,Medium,PROD673,18.985473468397785,1-752294659
-Org line C,INDIA,Santosh,se,E_7,Accepted_Assigned,Medium,PROD673,18.98547838003535,1-752294659
-Org line C,INDIA,Santosh,se,E_7,Accepted_In Progress,Medium,PROD673,18.990533955896353,1-752294659
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.983209052094388,1-752294699
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.983209656046903,1-752294699
-Org line C,INDIA,Santosh,se,E_7,Accepted_Assigned,Medium,PROD673,18.985473837908394,1-752294699
-Org line C,Sweden,Olof,se,E_3,Accepted_In Progress,Medium,PROD379,18.98351540859826,1-752521529
-Org line V2,Sweden,Tonie,se,NAN,Accepted_In Progress,Medium,PROD257,18.983560695846254,1-752541471
-Org line V2,Sweden,Tonie,se,NAN,Accepted_Assigned,Medium,PROD257,18.985604863446948,1-752541471
-Org line G4,Sweden,Håkan,se,NAN,Accepted_In Progress,Medium,PROD397,18.983516775618536,1-752542242
-Org line A2,Sweden,Ann-Charlotte,se,A2_3,Accepted_In Progress,Medium,PROD368,18.98354133040197,1-752580191
-Org line C,INDIA,-,in,E_7,Queued_Awaiting Assignment,Medium,PROD424,18.983566528188934,1-752629415
-Org line C,INDIA,Rajendra,in,E_7,Accepted_In Progress,Medium,PROD424,18.985219474297423,1-752629415
-Org line A2,Sweden,Britt,se,A2_1,Accepted_In Progress,High,PROD350,18.983569563955403,1-752643661
-Org line A2,Sweden,Britt,se,A2_1,Accepted_Wait,High,PROD350,18.983628648501714,1-752643661
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.983612302923895,1-752702791
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.983618095098237,1-752702791
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.9836757815012,1-752799402
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.983677974076997,1-752799402
-Org line C,Sweden,Leif,se,E_10,Accepted_In Progress,High,PROD646,18.983673902146695,1-752809009
-Org line C,France,Celine,fr,V3_3,Accepted_In Progress,Medium,PROD30,18.98366491536632,1-752828161
-Org line C,France,Celine,fr,V3_3,Queued_Awaiting Assignment,Medium,PROD30,18.98366563863997,1-752828161
-Org line C,France,Celine,fr,V3_3,Accepted_In Progress,Medium,PROD30,18.98649481989353,1-752828161
-Org line C,France,Fabrice,fr,V3_3,Accepted_Assigned,Medium,PROD30,18.989443609526386,1-752828161
-Org line C,INDIA,Atul,se,E_1,Accepted_In Progress,Low,PROD567,18.983965501550927,1-753034398
-Org line C,INDIA,Vinodhkumar,se,E_5,Accepted_In Progress,Medium,PROD325,18.983989994079625,1-753055854
-Org line C,INDIA,Vinodhkumar,se,E_5,Queued_Awaiting Assignment,Medium,PROD325,18.983993717438015,1-753055854
-Org line C,INDIA,Freddy,se,E_4,Accepted_In Progress,Medium,PROD325,18.984046167495165,1-753055854
-Org line C,Sweden,Inger,se,C_3,Queued_Awaiting Assignment,Medium,PROD325,18.986438494218667,1-753055854
-Org line C,INDIA,Amar,se,C_3,Accepted_In Progress,Medium,PROD325,18.98747835503261,1-753055854
-Org line A2,Sweden,Linda,se,A2_3,Accepted_In Progress,Medium,PROD319,18.984009663958314,1-753118981
-Org line A2,Sweden,Linda,se,A2_3,Accepted_In Progress,Medium,PROD319,18.98401065455847,1-753119403
-Org line A2,Sweden,Sandeep,se,D_1,Accepted_Assigned,Medium,PROD607,18.984028633211455,1-753140751
-Org line A2,Sweden,Sandeep,se,D_1,Accepted_In Progress,Medium,PROD607,18.984055378563884,1-753140751
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.984026987933344,1-753170915
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.984028428263464,1-753170915
-Org line G4,Sweden,Erik,se,NAN,Accepted_In Progress,Low,PROD176,18.98406256860368,1-753174310
-Org line G4,Sweden,Erik,se,NAN,Accepted_Assigned,Low,PROD176,18.9840645496982,1-753174310
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.9841048766427,1-753202887
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.984127202633914,1-753202887
-Org line G4,Sweden,Ing-Marie,se,NAN,Accepted_In Progress,Medium,PROD609,18.98410370966617,1-753238365
-Org line G4,Sweden,Ing-Marie,se,NAN,Queued_Awaiting Assignment,Medium,PROD609,18.98411174754521,1-753238365
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98408570389955,1-753244396
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98408592591382,1-753244396
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.984087309232404,1-753244555
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98408819159511,1-753244555
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.984091362401767,1-753244649
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.985600049059613,1-753244649
-Org line C,Belgium,Marc,be,E_6,Accepted_In Progress,Medium,PROD149,18.984083751310365,1-753245663
-Org line C,Belgium,Marc,be,E_6,Queued_Awaiting Assignment,Medium,PROD149,18.984093041729764,1-753245663
-Org line C,Belgium,Ludwig,be,E_6,Accepted_In Progress,Medium,PROD149,18.98943782834729,1-753245663
-Org line C,Sweden,Partha,be,E_10,Accepted_In Progress,Medium,PROD149,18.989890782378744,1-753245663
-Org line C,Belgium,Marc,be,E_6,Queued_Awaiting Assignment,Medium,PROD149,18.98989184640621,1-753245663
-Org line C,Belgium,Marc,be,E_6,Accepted_In Progress,Medium,PROD149,18.989918565575866,1-753245663
-Org line C,Sweden,Fredrik,se,V3_2,Accepted_In Progress,Low,PROD253,18.984091459176675,1-753287118
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.984122255893023,1-753301833
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.984128620049983,1-753301833
-Org line C,INDIA,Rohan,se,E_7,Accepted_Assigned,Medium,PROD673,18.985474014136486,1-753301833
-Org line A2,Sweden,Dusan,se,A2_3,Accepted_In Progress,Major,PROD617,18.984148429510075,1-753362545
-Org line A2,Sweden,Dusan,se,A2_3,Accepted_Wait,Major,PROD617,18.98754618950075,1-753362545
-Org line C,Sweden,Ann-Charlotte,us,E_10,Accepted_In Progress,High,PROD802,18.984299258848456,1-753487360
-Org line C,Sweden,Ann-Charlotte,us,E_10,Queued_Awaiting Assignment,High,PROD802,18.98431021484644,1-753487360
-Org line C,Sweden,Mats,us,E_10,Accepted_In Progress,High,PROD802,18.987462344587307,1-753487360
-Org line C,Sweden,Martin,us,C_6,Queued_Awaiting Assignment,High,PROD802,18.98746254315925,1-753487360
-Org line C,Sweden,Andreas,us,C_6,Accepted_In Progress,High,PROD802,18.987467155690652,1-753487360
-Org line C,Sweden,Andreas,us,C_6,Accepted_Wait,High,PROD802,18.987547431888927,1-753487360
-Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,High,PROD802,18.99085209397873,1-753487360
-Org line C,Sweden,Ann-Charlotte,us,E_10,Accepted_In Progress,High,PROD802,18.98430024916178,1-753504966
-Org line C,Sweden,Ann-Charlotte,us,E_10,Queued_Awaiting Assignment,High,PROD802,18.984310226229237,1-753504966
-Org line C,Sweden,Mats,us,E_10,Accepted_In Progress,High,PROD802,18.985457994307826,1-753504966
-Org line C,Sweden,Martin,us,C_6,Queued_Awaiting Assignment,High,PROD802,18.985458807243564,1-753504966
-Org line C,Sweden,Andreas,us,C_6,Accepted_In Progress,High,PROD802,18.98546978465378,1-753504966
-Org line C,Sweden,Andreas,us,C_6,Accepted_Wait,High,PROD802,18.985487896264484,1-753504966
-Org line C,INDIA,Shamna,us,E_4,Queued_Awaiting Assignment,High,PROD802,18.9870972970294,1-753504966
-Org line C,INDIA,Shamna,us,E_4,Accepted_In Progress,High,PROD802,18.987359864858057,1-753504966
-Org line C,INDIA,Shamna,us,E_4,Accepted_Wait,High,PROD802,18.987360046428154,1-753504966
-Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,High,PROD802,18.987408450705086,1-753504966
-Org line C,Sweden,Jagannath,us,E_4,Accepted_In Progress,High,PROD802,18.989968662802244,1-753504966
-Org line C,Japan,Ryouhei,jp,E_10,Accepted_In Progress,Medium,PROD802,18.98483225848159,1-753569621
-Org line C,Japan,Ryouhei,jp,E_10,Accepted_In Progress,Medium,PROD802,18.984834482653667,1-753569621
-Org line C,Japan,Ryouhei,jp,E_10,Accepted_Wait,Medium,PROD802,18.988833887592406,1-753569621
-Org line C,USA,Thomas,us,NAN,Accepted_In Progress,Medium,PROD330,18.985235412655566,1-753646102
-Org line A2,INDIA,Amit,us,A2_4,Accepted_In Progress,Medium,PROD500,18.985450791554598,1-753713441
-Org line A2,Belgium,Marc,be,A2_4,Accepted_In Progress,Medium,PROD41,18.98549374580125,1-753768558
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.985494746301683,1-753815551
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98552909810419,1-753815551
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.985497395349128,1-753815676
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.985544184556325,1-753815676
-Org line C,France,Michel,fr,NAN,Accepted_In Progress,Medium,PROD209,18.98551040741377,1-753878023
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD235,18.985556764004986,1-753944613
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD235,18.985599708015947,1-753944613
-Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,High,PROD154,18.98571964021737,1-754168350
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD154,18.987151877362344,1-754168350
-Org line C,Sweden,Parbhat,se,E_10,Accepted_In Progress,High,PROD154,18.98715351750717,1-754168350
-Org line C,Sweden,Ankit,se,E_10,Accepted_Assigned,High,PROD154,18.987153755867098,1-754168350
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD154,18.98716780765176,1-754168350
-Org line A2,Sweden,Ratikanta,se,A2_1,Accepted_In Progress,Medium,PROD730,18.985970029974467,1-754350709
-Org line A2,Sweden,Ratikanta,se,A2_1,Accepted_Wait,Medium,PROD730,18.986070101284945,1-754350709
-Org line G1,Sweden,Jenny,se,E_6,Accepted_In Progress,High,PROD292,18.985973569827735,1-754450223
-Org line G1,Sweden,Jenny,se,E_6,Accepted_In Progress,High,PROD292,18.985974098247773,1-754450603
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,High,PROD671,18.98601555278193,1-754526611
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,High,PROD671,18.986026614988436,1-754526611
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,High,PROD671,18.986126760171764,1-754526611
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.986023757121437,1-754539158
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.98602523434993,1-754539158
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98604180188618,1-754582299
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.986097865847288,1-754582299
-Org line C,Sweden,Olle,se,E_2,Accepted_In Progress,High,PROD330,18.98602962056937,1-754584941
-Org line C,Sweden,Olle,se,E_2,Accepted_Assigned,High,PROD330,18.986032307971517,1-754584941
-Org line C,Sweden,Olle,se,E_2,Accepted_In Progress,High,PROD330,18.986036847562545,1-754584941
-Org line C,USA,Mats,be,E_3,Accepted_In Progress,Medium,PROD382,18.98609275272613,1-754744405
-Org line B,INDIA,Srinivasan,in,E_10,Queued_Awaiting Assignment,High,PROD452,18.98639687546898,1-754949761
-Org line B,INDIA,Rijin,in,E_10,Accepted_In Progress,High,PROD452,18.986397341190553,1-754949761
-Org line B,INDIA,Sujith,in,E_10,Accepted_Assigned,High,PROD452,18.987478065689487,1-754949761
-Org line B,INDIA,Sujith,in,E_10,Accepted_Wait,High,PROD452,18.987527451376792,1-754949761
-Org line B,INDIA,Sujith,in,E_10,Accepted_In Progress,High,PROD452,18.98949076367447,1-754949761
-Org line B,INDIA,Sujith,in,E_10,Accepted_Wait,High,PROD452,18.98951581199582,1-754949761
-Org line C,Japan,Ryou,jp,V3_2,Accepted_In Progress,Major,PROD214,18.986382233526438,1-755039071
-Org line A2,Brazil,Flavio,br,A2_2,Accepted_In Progress,Medium,PROD135,18.986524230880146,1-755123451
-Org line A2,POLAND,Krzysztof,pl,A2_1,Accepted_In Progress,Medium,PROD761,18.986529086250435,1-755151337
-Org line A2,POLAND,Krzysztof,pl,A2_1,Accepted_Wait,Medium,PROD761,18.98653599162535,1-755151337
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.986582573266436,1-755193882
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98658275497772,1-755193882
-Org line A2,USA,David,us,A2_3,Accepted_In Progress,Medium,PROD488,18.98660046599098,1-755198841
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.98658958616235,1-755218095
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.990357068832115,1-755218095
-Org line B,Brazil,Thiago,br,E_6,Accepted_In Progress,High,PROD143,18.986705777295185,1-755248531
-Org line F,Belgium,Marc,se,NAN,Accepted_In Progress,Low,PROD535,18.986953502154588,1-755443602
-Org line F,Belgium,Marc,se,NAN,Accepted_Assigned,Low,PROD535,18.986953837060494,1-755443602
-Org line F,Belgium,Marc,se,NAN,Accepted_In Progress,Low,PROD535,18.986958854959266,1-755443602
-Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Medium,PROD681,18.986970508421148,1-755467807
-Org line A2,Sweden,Niklas,se,A2_2,Queued_Awaiting Assignment,Medium,PROD681,18.986971053343467,1-755467807
-Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Medium,PROD681,18.986972023985608,1-755467807
-Org line C,Sweden,Börje,se,E_7,Accepted_In Progress,Medium,PROD671,18.98696566654627,1-755478621
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Major,PROD673,18.987103097430854,1-755773369
-Org line C,Canada,Eric,ca,NAN,Accepted_In Progress,Low,OTHERS,18.987154771733756,1-755797667
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.987438782328283,1-755985697
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98744055816922,1-755985697
-Org line C,Sweden,Rakesh,se,E_10,Accepted_In Progress,High,PROD659,18.987470389556073,1-756110987
-Org line C,Sweden,Rakesh,se,E_10,Queued_Awaiting Assignment,High,PROD659,18.987470928532627,1-756110987
-Org line C,Sweden,Manisha,se,E_10,Accepted_In Progress,High,PROD659,18.987474854542544,1-756110987
-Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD659,18.987478950738776,1-756110987
-Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD659,18.987496606173718,1-756110987
-Org line G4,Sweden,Rickard,se,NAN,Accepted_In Progress,Low,PROD374,18.98747035551544,1-756111935
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98756220994956,1-756265856
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.9875654832179,1-756265856
-Org line C,Sweden,Martin,se,C_6,Accepted_In Progress,Low,PROD804,18.987563026849422,1-756296231
-Org line C,Sweden,Martin,se,C_6,Accepted_In Progress,Low,PROD804,18.987567071628483,1-756296231
-Org line C,Sweden,Andreas,se,C_6,Accepted_Assigned,Low,PROD804,18.988930675871945,1-756296231
-Org line C,Sweden,Andreas,se,C_6,Accepted_In Progress,Low,PROD804,18.988985354502642,1-756296231
-Org line V5,Sweden,Sachin,se,NAN,Accepted_In Progress,Medium,PROD221,18.987596110732998,1-756296861
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.987563554430228,1-756300970
-Org line C,Sweden,Per,se,E_7,Accepted_In Progress,Medium,PROD673,18.989347612709377,1-756300970
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.98762937504327,1-756301789
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.987629380715806,1-756301789
-Org line C,Sweden,Per,se,E_7,Accepted_In Progress,Medium,PROD673,18.989347306918205,1-756301789
-Org line C,Sweden,Neeraj,in,E_10,Accepted_In Progress,High,PROD802,18.98830466672474,1-756484463
-Org line C,Sweden,Neeraj,in,E_10,Accepted_Wait,High,PROD802,18.988304899141728,1-756484463
-Org line C,Sweden,Neeraj,in,E_10,Accepted_Wait,High,PROD802,18.988335135564366,1-756484463
-Org line A2,China,Sophie,se,A2_1,Accepted_In Progress,Low,PROD350,18.988897126230857,1-756603706
-Org line V2,Sweden,Leif,se,NAN,Accepted_In Progress,Medium,PROD615,18.988912224275165,1-756651699
-Org line V2,Sweden,Leif,se,NAN,Accepted_In Progress,Medium,PROD615,18.988917011412347,1-756651699
-Org line V2,Sweden,Leif,se,NAN,Accepted_Assigned,Medium,PROD615,18.988924274220505,1-756651699
-Org line V2,Sweden,Leif,se,NAN,Accepted_Wait,Medium,PROD615,18.99036581464751,1-756651699
-Org line A2,POLAND,Paulina,pl,A2_1,Accepted_In Progress,Major,PROD776,18.98891187869396,1-756712218
-Org line A2,POLAND,Paulina,pl,A2_1,Queued_Awaiting Assignment,Major,PROD776,18.988917555275002,1-756712218
-Org line A2,POLAND,Michal,pl,A2_1,Accepted_In Progress,Low,PROD110,18.988984402807326,1-756787020
-Org line A2,POLAND,Przemyslaw,pl,A2_1,Accepted_In Progress,Medium,PROD761,18.988980686655037,1-756926423
-Org line A2,POLAND,Przemyslaw,pl,A2_1,Accepted_Wait,Medium,PROD761,18.98898073197405,1-756926423
-Org line A2,0,Sumesh,fr,A2_2,Accepted_Wait,Medium,PROD698,18.98903787761598,1-756979533
-Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,Medium,PROD98,18.988998055016534,1-756998975
-Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,Medium,PROD98,18.988999493869223,1-756998975
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.989048691188906,1-757096237
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98905054347594,1-757096237
-Org line A2,POLAND,Tomasz,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98991684506622,1-757096237
-Org line A2,POLAND,Tomasz,gb,A2_1,Accepted_Wait,Medium,PROD236,18.99050113309892,1-757096237
-Org line C,France,Aurelie,se,C_5,Accepted_In Progress,Medium,PROD473,18.989041168715772,1-757113161
-Org line C,France,Aurelie,se,C_5,Queued_Awaiting Assignment,Medium,PROD473,18.989043202281483,1-757113161
-Org line C,Sweden,Mikael,se,C_5,Accepted_In Progress,Medium,PROD473,18.989045139546366,1-757113161
-Org line F,Sweden,Craig,se,NAN,Queued_Awaiting Assignment,High,PROD417,18.98916426279678,1-757154661
-Org line F,Sweden,Stefan,se,NAN,Accepted_In Progress,High,PROD417,18.989440670811707,1-757154661
-Org line F,Sweden,William,se,NAN,Accepted_Assigned,High,PROD417,18.989441191740564,1-757154661
-Org line F,Sweden,Milos,se,NAN,Accepted_Assigned,High,PROD417,18.98944462873177,1-757154661
-Org line G4,United Kingdom,Ian,se,NAN,Accepted_In Progress,Medium,PROD236,18.989401130386952,1-757480343
-Org line G4,United Kingdom,Ian,se,NAN,Accepted_Assigned,Medium,PROD236,18.990357187630895,1-757480343
-Org line G4,Sweden,Ing-Marie,se,NAN,Queued_Awaiting Assignment,Medium,PROD236,18.99051320350673,1-757480343
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.989418553733998,1-757480762
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.989451576287472,1-757480762
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.99035713106005,1-757480762
-Org line A2,China,Anson,cn,A2_5,Queued_Awaiting Assignment,Medium,PROD789,18.98943484431719,1-757510345
-Org line V2,Sweden,Conny,se,NAN,Accepted_In Progress,High,PROD42,18.989426243239425,1-757533524
-Org line V2,Sweden,Conny,se,NAN,Queued_Awaiting Assignment,High,PROD42,18.9894590560388,1-757533524
-Org line V2,Sweden,Conny,se,NAN,Accepted_In Progress,High,PROD42,18.989498146879612,1-757533524
-Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,High,PROD673,18.989433615596326,1-757564651
-Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,High,PROD673,18.989434266761947,1-757564651
-Org line C,Sweden,Sten,se,E_6,Queued_Awaiting Assignment,High,PROD673,18.99032968250791,1-757564651
-Org line G4,Sweden,Lars-Göran,se,NAN,Accepted_In Progress,High,PROD374,18.989482270656353,1-757589842
-Org line C,Sweden,Andreas,se,C_6,Accepted_In Progress,Medium,PROD802,18.989469547980256,1-757615671
-Org line C,USA,Robert,us,E_4,Accepted_In Progress,Major,PROD348,18.989475781941906,1-757671208
-Org line C,USA,Robert,us,E_4,Accepted_Wait,Major,PROD348,18.989476138652435,1-757671208
-Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,Major,PROD348,18.989917750597982,1-757671208
-Org line C,Sweden,Kjell,us,E_4,Accepted_In Progress,Major,PROD348,18.989917988299933,1-757671208
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.98947017081196,1-757671923
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.989470782319074,1-757671923
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.989489982319817,1-757671975
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.98949036733523,1-757671975
-Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,High,PROD236,18.98950863841094,1-757709801
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD821,18.98949156767645,1-757715045
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD821,18.98949187908549,1-757715045
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.989492632128776,1-757715125
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.989493555030673,1-757715125
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.98950312937988,1-757715285
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.989503576671304,1-757715285
-Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.98950447125355,1-757715705
-Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.98950522994926,1-757715705
-Org line A2,Sweden,Jerker,se,A2_3,Accepted_In Progress,Low,PROD240,18.989509414089135,1-757779170
-Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Low,PROD681,18.98950892150524,1-757793972
-Org line A2,0,Sumesh,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.98953076481987,1-757827277
-Org line A2,0,Sumesh,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.989546289249546,1-757827277
-Org line A2,France,Frederic,fr,A2_2,Queued_Awaiting Assignment,Medium,PROD698,18.989548287818348,1-757827277
-Org line G4,Sweden,Adam,se,NAN,Accepted_In Progress,Low,PROD409,18.98965440438673,1-757936055
-Org line A2,Sweden,Dusan,se,A2_3,Accepted_In Progress,Major,PROD617,18.989872240952383,1-758090698
-Org line C,France,Cyril,fr,E_6,Accepted_In Progress,High,PROD348,18.989877623434825,1-758109531
-Org line A2,POLAND,Radoslaw,pl,A2_3,Accepted_In Progress,High,PROD791,18.98995118678419,1-758210759
-Org line C,POLAND,Grzegorz,pl,E_10,Accepted_In Progress,High,PROD600,18.989944887872493,1-758231571
-Org line C,POLAND,Grzegorz,pl,E_10,Queued_Awaiting Assignment,High,PROD600,18.990054340673705,1-758231571
-Org line C,POLAND,Krystian,pl,E_10,Accepted_Assigned,High,PROD600,18.990373214022796,1-758231571
-Org line C,Sweden,Jonas,in,E_8,Accepted_In Progress,Major,PROD473,18.99000655098297,1-758235785
-Org line A2,Sweden,Stefan,se,D_1,Accepted_In Progress,High,PROD607,18.989954208889465,1-758257831
-Org line A2,Sweden,Stefan,se,D_1,Accepted_Wait,High,PROD607,18.989954978562757,1-758257831
-Org line C,Belgium,Wim,se,C_5,Accepted_In Progress,High,PROD618,18.989991707136372,1-758346501
-Org line C,Belgium,Wim,se,C_5,Accepted_In Progress,High,PROD618,18.990003874240028,1-758346501
-Org line C,Sweden,Lars,se,C_4,Accepted_In Progress,Medium,PROD673,18.99000914283294,1-758417452
-Org line C,Sweden,Lars,se,C_4,Accepted_Wait,Medium,PROD673,18.990012498646173,1-758417452
-Org line C,Sweden,Richard,se,V3_2,Accepted_In Progress,Medium,PROD412,18.990049700448605,1-758488261
-Org line C,Sweden,Richard,se,V3_2,Queued_Awaiting Assignment,Medium,PROD412,18.990050028660356,1-758488261
-Org line C,Sweden,Joakim,se,V3_2,Accepted_In Progress,Medium,PROD412,18.99014774043105,1-758488261
-Org line G4,Sweden,Viktoria,se,NAN,Queued_Awaiting Assignment,Medium,PROD412,18.990147780038935,1-758488261
-Org line C,Sweden,Christoffer,se,V3_2,Accepted_In Progress,Medium,PROD412,18.990366448235307,1-758488261
-Org line G4,Sweden,Viktoria,se,NAN,Queued_Awaiting Assignment,Medium,PROD412,18.99036655006188,1-758488261
-Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Medium,PROD412,18.990366623603283,1-758488261
-Org line C,USA,Robert,us,E_4,Accepted_In Progress,Medium,PROD436,18.990088264592092,1-758494760
-Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,Medium,PROD436,18.990090001782626,1-758494760
-Org line A2,Sweden,Lotta,us,A2_2,Accepted_In Progress,Medium,PROD436,18.990091201404294,1-758494760
-Org line C,USA,Robert,us,E_4,Accepted_In Progress,Medium,PROD436,18.990091359844783,1-758494760
-Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,High,PROD436,18.990094449429325,1-758528371
-Org line A2,Sweden,Maria,se,A2_4,Accepted_In Progress,High,PROD591,18.990378407129633,1-758672701
-Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.99037794325844,1-758685504
-Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.990426201679984,1-758685504
-Org line C,Belgium,Christophe,be,V3_2,Accepted_In Progress,Medium,PROD815,18.990377270079133,1-758719001
-Org line C,Belgium,Christophe,be,V3_2,Accepted_Wait,Medium,PROD815,18.990447453653786,1-758719001
-Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.99041076444271,1-758730027
-Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.990428283341235,1-758730027
-Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.990419407967327,1-758763414
-Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.99079191360797,1-758763414
-Org line C,Sweden,Bikshamaiah,in,E_8,Accepted_In Progress,High,PROD597,18.990420448805565,1-758764831
-Org line G4,Sweden,Bharath,se,NAN,Accepted_In Progress,Medium,PROD304,18.990440337658555,1-758781027
-Org line G4,Sweden,Bharath,se,NAN,Accepted_Assigned,Medium,PROD304,18.99044329040676,1-758781027
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Low,PROD236,18.990443115052226,1-758784721
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Low,PROD236,18.9904435619234,1-758784721
-Org line C,Sweden,Rohit,in,E_10,Accepted_In Progress,Medium,PROD802,18.990446667389712,1-758784862
-Org line C,Sweden,Rohit,in,E_10,Accepted_Wait,Medium,PROD802,18.99079740423448,1-758784862
-Org line G4,Sweden,Rickard,se,NAN,Accepted_In Progress,Medium,PROD374,18.990472794783575,1-758849852
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.990499900031253,1-758914871
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.990500465658812,1-758914871
-Org line C,Sweden,Andreas,se,C_6,Accepted_In Progress,High,PROD802,18.990528395949763,1-758976470
-Org line C,Sweden,Jörgen,us,E_4,Accepted_In Progress,High,PROD348,18.99054022281842,1-758983319
-Org line C,USA,Robert,us,E_4,Accepted_In Progress,Medium,PROD793,18.9905168913436,1-758989918
-Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,Medium,PROD793,18.990518328012566,1-758989918
-Org line C,USA,Jay,us,E_4,Accepted_In Progress,Medium,PROD793,18.990528373325297,1-758989918
-Org line C,Sweden,Kåre,be,E_1,Accepted_In Progress,High,PROD821,18.990577043020355,1-759020352
-Org line B,INDIA,Rijin,in,E_10,Accepted_In Progress,Medium,PROD10,18.99083515359606,1-759169644
-Org line C,Sweden,Ranveer,in,E_10,Accepted_In Progress,Low,PROD805,18.990880223653164,1-759255125
-Org line C,Sweden,Ranveer,in,E_10,Accepted_Wait,Low,PROD805,18.990880777757397,1-759255125
-Org line A2,POLAND,Hanna,gb,A2_1,Accepted_In Progress,Low,PROD236,18.99088575902758,1-759255152
-Org line A2,POLAND,Hanna,gb,A2_1,Accepted_In Progress,Low,PROD236,18.990889117554424,1-759255152
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.990899560578463,1-759318221
-Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.990900453912758,1-759318221
+org:group,resource country,org:resource,oranization country,org:role,Activity,impact,product,time:timestamp,CaseID,org:resource:role
+Org line A2,POLAND,Miroslaw,pl,A2_1,Accepted_In Progress,Medium,PROD756,18.979693430058436,1-572730349,Role 1
+Org line A2,POLAND,Miroslaw,pl,A2_1,Completed_Closed,Medium,PROD756,18.979694293435752,1-572730349,Role 1
+Org line C,Sweden,Peter,se,C_5,Accepted_In Progress,Major,PROD601,18.975618113707494,1-745402650,Role 1
+Org line C,Sweden,Peter,se,C_5,Accepted_Wait,Major,PROD601,18.975620289575268,1-745402650,Role 1
+Org line C,Sweden,Kjell,se,E_7,Accepted_In Progress,Low,PROD673,18.975618888753285,1-745418021,Role 1
+Org line A2,Sweden,Ann-Charlotte,se,A2_3,Accepted_In Progress,Low,PROD368,18.975709645332405,1-745542401,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.97569941560804,1-745546187,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.976112097913827,1-745546187,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.976117807453157,1-745546187,Role 1
+Org line A2,Sweden,Åsa,se,D_1,Accepted_In Progress,Major,PROD617,18.97571229746608,1-745590142,Role 1
+Org line A2,Sweden,Åsa,se,D_1,Completed_Closed,Major,PROD617,18.98359191329204,1-745590142,Role 1
+Org line C,Belgium,Steve,se,E_10,Accepted_In Progress,Medium,PROD646,18.975755895928156,1-745625831,Role 1
+Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.975752566553716,1-745647199,Role 1
+Org line G4,Sweden,Christoffer,se,NAN,Accepted_Wait,Low,PROD412,18.97575281912734,1-745647199,Role 1
+Org line G1,Sweden,Gunilla,se,E_6,Queued_Awaiting Assignment,High,PROD295,18.97584462541297,1-745770713,Role 1
+Org line G1,Sweden,Peter,se,E_6,Accepted_In Progress,High,PROD295,18.976046031295347,1-745770713,Role 1
+Org line G1,Sweden,Peter,se,E_6,Completed_Closed,High,PROD295,18.97604686339577,1-745770713,Role 1
+Org line G1,Sweden,Peter,se,E_6,Accepted_In Progress,High,PROD295,18.982611558715572,1-745770713,Role 1
+Org line C,Sweden,Susan,se,E_6,Queued_Awaiting Assignment,High,PROD295,18.982612140224777,1-745770713,Role 1
+Org line G1,Sweden,Peter,se,E_6,Accepted_In Progress,High,PROD295,18.982612145925845,1-745770713,Role 1
+Org line C,Sweden,Susan,se,E_6,Queued_Awaiting Assignment,High,PROD295,18.982612328360037,1-745770713,Role 1
+Org line C,Sweden,Susan,se,E_6,Accepted_In Progress,High,PROD295,18.98298575268998,1-745770713,Role 1
+Org line C,Sweden,Lars,se,E_6,Accepted_Assigned,High,PROD295,18.982986083228408,1-745770713,Role 1
+Org line A2,Sweden,Avvaru,se,A2_4,Accepted_In Progress,Medium,PROD243,18.976010961937053,1-745886321,Role 1
+Org line A2,Sweden,Vikrant,se,A2_4,Accepted_In Progress,Medium,PROD337,18.97609474530476,1-745966287,Role 1
+Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Medium,PROD681,18.976094894501756,1-745991925,Role 1
+Org line C,USA,Michael,us,V3_2,Queued_Awaiting Assignment,Medium,PROD611,18.976123803868912,1-745995763,Role 1
+Org line C,USA,Jennifer,us,V3_2,Accepted_Assigned,Medium,PROD611,18.986577684084807,1-745995763,Role 1
+Org line C,USA,Jennifer,us,V3_2,Accepted_Assigned,Medium,PROD611,18.990556766625264,1-745995763,Role 1
+Org line A2,Sweden,Kristina,se,A2_3,Accepted_In Progress,Medium,PROD231,18.976126483595237,1-746009843,Role 1
+Org line C,Sweden,Rakesh,in,E_10,Accepted_In Progress,High,PROD154,18.976131429880645,1-746011641,Role 1
+Org line C,Sweden,Rakesh,in,E_10,Completed_Closed,High,PROD154,18.97861221135887,1-746011641,Role 1
+Org line C,Belgium,Steven,be,E_6,Accepted_In Progress,Medium,PROD327,18.976112086437332,1-746018291,Role 1
+Org line C,Belgium,Steven,be,E_6,Queued_Awaiting Assignment,Medium,PROD327,18.976113061938836,1-746018291,Role 1
+Org line C,Belgium,Robert,be,E_6,Accepted_In Progress,Medium,PROD327,18.97612211110447,1-746018291,Role 1
+Org line C,Belgium,Steven,be,E_6,Accepted_In Progress,Medium,PROD327,18.976113739051083,1-746018381,Role 1
+Org line C,Belgium,Steven,be,E_6,Queued_Awaiting Assignment,Medium,PROD327,18.976115810552656,1-746018381,Role 1
+Org line C,Belgium,Robert,be,E_6,Accepted_In Progress,Medium,PROD327,18.97612224308282,1-746018381,Role 1
+Org line B,Australia,Marilyn,au,A2_1,Accepted_In Progress,Medium,PROD327,18.976121497118015,1-746018891,Role 1
+Org line B,Australia,Marilyn,au,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.976121944696963,1-746018891,Role 1
+Org line C,Australia,John,au,E_2,Queued_Awaiting Assignment,Medium,PROD327,18.97654679612189,1-746018891,Role 1
+Org line B,Australia,Marilyn,au,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.98000311170144,1-746018891,Role 1
+Org line B,Australia,Marilyn,au,A2_1,Accepted_In Progress,Medium,PROD327,18.986929854108315,1-746018891,Role 1
+Org line C,Australia,John,au,E_2,Queued_Awaiting Assignment,Medium,PROD327,18.986931659235736,1-746018891,Role 1
+Org line G4,Sweden,Göran,se,NAN,Accepted_In Progress,Low,PROD193,18.97613645073698,1-746049852,Role 1
+Org line G4,Sweden,Göran,se,NAN,Accepted_In Progress,Low,PROD193,18.98298941140237,1-746049852,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.97621489332274,1-746052232,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.97622211126923,1-746052232,Role 1
+Org line G4,Sweden,Fredrik,se,NAN,Accepted_In Progress,Low,PROD108,18.97612619668698,1-746057054,Role 1
+Org line A2,Sweden,Viktoria,se,A2_3,Accepted_In Progress,Medium,PROD231,18.976154973175227,1-746118131,Role 1
+Org line A2,Sweden,Viktoria,se,A2_3,Queued_Awaiting Assignment,Medium,PROD231,18.98359035272767,1-746118131,Role 1
+Org line C,INDIA,Hineesh,us,E_4,Accepted_In Progress,High,PROD793,18.976158616799122,1-746123906,Role 1
+Org line C,INDIA,Hineesh,us,E_4,Completed_Closed,High,PROD793,18.979106824466484,1-746123906,Role 1
+Org line A2,Sweden,Ann-Charlotte,se,A2_3,Accepted_In Progress,Medium,PROD368,18.97615639046043,1-746129221,Role 1
+Org line A2,POLAND,Miroslaw,pl,A2_1,Accepted_In Progress,Medium,PROD327,18.97616219155423,1-746148231,Role 1
+Org line A2,POLAND,Miroslaw,pl,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.97616250140399,1-746148231,Role 1
+Org line C,Belgium,Steven,be,E_6,Accepted_In Progress,Medium,PROD327,18.97617153864644,1-746148741,Role 1
+Org line C,Belgium,Steven,be,E_6,Queued_Awaiting Assignment,Medium,PROD327,18.976171842755402,1-746148741,Role 1
+Org line C,Belgium,Robert,be,E_6,Accepted_In Progress,Medium,PROD327,18.976175262540362,1-746148741,Role 1
+Org line C,Belgium,Katia,be,A2_1,Accepted_In Progress,Medium,PROD327,18.976182027483212,1-746175541,Role 1
+Org line C,Belgium,Katia,be,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.976182463559383,1-746175541,Role 1
+Org line C,Belgium,Els,se,C_2,Accepted_In Progress,Medium,PROD327,18.97619687117962,1-746205481,Role 1
+Org line C,Belgium,Els,se,C_2,Queued_Awaiting Assignment,Medium,PROD327,18.976200767111365,1-746205481,Role 1
+Org line C,Belgium,Els,se,E_2,Accepted_In Progress,Medium,PROD327,18.976201025309546,1-746205481,Role 1
+Org line C,Belgium,Ilona,be,A2_1,Accepted_In Progress,Medium,PROD327,18.97620344663146,1-746245931,Role 1
+Org line C,Belgium,Ilona,be,A2_1,Queued_Awaiting Assignment,Medium,PROD327,18.976204353191235,1-746245931,Role 1
+Org line C,Sweden,Leif,se,E_10,Accepted_In Progress,High,PROD646,18.976235611787637,1-746246761,Role 1
+Org line G4,Sweden,Roland,se,NAN,Accepted_In Progress,High,PROD374,18.976260191099012,1-746306469,Role 1
+Org line C,Belgium,Emmanuel,gb,E_10,Accepted_In Progress,Medium,PROD494,18.976245440142197,1-746318085,Role 1
+Org line C,Belgium,Emmanuel,gb,E_10,Accepted_In Progress,Medium,PROD494,18.980075135952944,1-746318085,Role 1
+Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976253902891987,1-746331441,Role 1
+Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976251212032192,1-746341261,Role 1
+Org line C,Sweden,Vesa,se,C_6,Accepted_In Progress,Low,PROD805,18.976591379136114,1-746464884,Role 1
+Org line C,Sweden,Vesa,se,C_6,Queued_Awaiting Assignment,Low,PROD805,18.97659257211884,1-746464884,Role 1
+Org line C,Sweden,Amitabh,se,C_6,Accepted_In Progress,Low,PROD805,18.97659748742207,1-746464884,Role 1
+Org line C,Sweden,Amitabh,se,C_6,Accepted_In Progress,Low,PROD805,18.979151831253652,1-746464884,Role 1
+Org line C,Sweden,Amitabh,se,C_6,Accepted_Wait,Low,PROD805,18.987518595604744,1-746464884,Role 1
+Org line C,INDIA,Jubin,us,E_4,Accepted_In Progress,Medium,PROD436,18.976475394919554,1-746534906,Role 1
+Org line C,INDIA,Jubin,us,E_4,Accepted_Assigned,Medium,PROD436,18.97897611766735,1-746534906,Role 1
+Org line C,Sweden,Vaibhav,us,E_4,Accepted_In Progress,Medium,PROD436,18.979146396449806,1-746534906,Role 1
+Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976555617671092,1-746538521,Role 1
+Org line A2,POLAND,Tomasz,be,A2_1,Accepted_In Progress,Medium,PROD558,18.97655641493341,1-746538521,Role 1
+Org line C,Belgium,Alain,be,E_1,Queued_Awaiting Assignment,Medium,PROD558,18.976556804960786,1-746538521,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.9766943145434,1-746582460,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97670370254198,1-746582460,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.976633952826205,1-746599948,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.976634147824793,1-746599948,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,High,PROD98,18.976725976463328,1-746662619,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Completed_Closed,High,PROD98,18.97720715897148,1-746662619,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.97709000217611,1-746854891,Role 1
+Org line A2,POLAND,Mariusz,pl,D_1,Accepted_In Progress,High,PROD405,18.97713655011451,1-746973401,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.977186569535593,1-747003445,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97718879358194,1-747003445,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD235,18.977183778006502,1-747011587,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD235,18.97718405887939,1-747011587,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.977201547360462,1-747011867,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97720255619173,1-747011867,Role 1
+Org line C,USA,Timothy,us,E_1,Accepted_In Progress,Medium,PROD332,18.977190266723323,1-747042322,Role 1
+Org line C,USA,Stephen,us,C_6,Accepted_In Progress,High,PROD785,18.977206534186926,1-747064611,Role 1
+Org line C,USA,Stephen,us,C_6,Queued_Awaiting Assignment,High,PROD785,18.977211813317503,1-747064611,Role 1
+Org line C,USA,Kymaria,us,V3_3,Accepted_In Progress,High,PROD785,18.977211819049444,1-747064611,Role 1
+Org line C,USA,Stephen,us,C_6,Queued_Awaiting Assignment,High,PROD785,18.977249763771404,1-747064611,Role 1
+Org line C,USA,Stephen,us,C_6,Accepted_In Progress,High,PROD785,18.977285391522962,1-747064611,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.977252429018755,1-747090194,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.977254910844845,1-747090194,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.977255077063923,1-747090194,Role 1
+Org line C,Sweden,Daniel,se,E_10,Accepted_In Progress,High,PROD802,18.977271377862866,1-747147181,Role 1
+Org line C,Sweden,Daniel,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.982555048090337,1-747147181,Role 1
+Org line C,Sweden,Hampus,se,E_10,Accepted_In Progress,High,PROD802,18.982594175995082,1-747147181,Role 1
+Org line C,Sweden,Hampus,se,E_10,Accepted_Wait,High,PROD802,18.983118677315144,1-747147181,Role 1
+Org line C,USA,Thomas,us,NAN,Accepted_In Progress,High,PROD306,18.977293507319747,1-747173974,Role 1
+Org line C,INDIA,-,in,E_7,Accepted_In Progress,High,PROD631,18.97758007995652,1-747371909,Role 1
+Org line C,INDIA,-,in,E_7,Queued_Awaiting Assignment,High,PROD631,18.97758338033281,1-747371909,Role 1
+Org line C,INDIA,Rajkishore,in,E_7,Accepted_In Progress,High,PROD631,18.97781998778242,1-747371909,Role 1
+Org line C,INDIA,Rajesh Kumar,in,E_7,Queued_Awaiting Assignment,High,PROD631,18.977820738209736,1-747371909,Role 1
+Org line C,Sweden,Stefan,in,E_7,Accepted_In Progress,High,PROD631,18.978563184795025,1-747371909,Role 1
+Org line C,Sweden,Peter,in,E_7,Queued_Awaiting Assignment,High,PROD631,18.978563986182586,1-747371909,Role 1
+Org line C,Sweden,Stefan,in,E_7,Accepted_In Progress,High,PROD631,18.978564175080987,1-747371909,Role 1
+Org line C,INDIA,Rajesh Kumar,in,E_7,Accepted_Assigned,High,PROD631,18.978564661637314,1-747371909,Role 1
+Org line C,Sweden,Praveen,in,E_10,Queued_Awaiting Assignment,High,PROD631,18.989979675705975,1-747371909,Role 1
+Org line C,Sweden,Kim,se,C_4,Accepted_In Progress,Medium,PROD276,18.977587798006937,1-747372912,Role 1
+Org line C,Sweden,Kim,se,C_4,Accepted_Assigned,Medium,PROD276,18.98249194306526,1-747372912,Role 1
+Org line C,Sweden,Stefan,se,C_4,Queued_Awaiting Assignment,Medium,PROD276,18.990364055307868,1-747372912,Role 1
+Org line A2,Sweden,Henrik,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.978548565083546,1-747473781,Role 1
+Org line A2,POLAND,Piotr,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.978548570807828,1-747473781,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.978549103165985,1-747473781,Role 1
+Org line A2,POLAND,Piotr,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.978549108890267,1-747473781,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.97854968704235,1-747473781,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.978572578161703,1-747473781,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_2,Queued_Awaiting Assignment,Medium,PROD767,18.978573036093227,1-747473781,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_2,Accepted_In Progress,Medium,PROD767,18.97857313340365,1-747473781,Role 1
+Org line A2,POLAND,Pawel,pl,A2_2,Accepted_Assigned,Medium,PROD767,18.978573236438205,1-747473781,Role 1
+Org line A2,POLAND,Miroslaw,pl,A2_1,Accepted_In Progress,Medium,PROD761,18.978569372635157,1-747590161,Role 1
+Org line C,INDIA,Bhaskar,se,E_5,Accepted_In Progress,High,PROD802,18.97859870281994,1-747681195,Role 1
+Org line C,INDIA,Bhaskar,se,E_5,Queued_Awaiting Assignment,High,PROD802,18.978601616329577,1-747681195,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.97861168475823,1-747681195,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.979626467444742,1-747681195,Role 1
+Org line A2,POLAND,Piotr,se,A2_5,Accepted_In Progress,Medium,PROD320,18.978626635529498,1-747689792,Role 1
+Org line A2,POLAND,Piotr,se,A2_5,Accepted_Assigned,Medium,PROD320,18.978646308160155,1-747689792,Role 1
+Org line A2,POLAND,Piotr,se,A2_5,Accepted_Wait,Medium,PROD320,18.97864705796763,1-747689792,Role 1
+Org line C,France,Cyril,fr,E_6,Accepted_In Progress,High,PROD612,18.97861866219423,1-747770943,Role 1
+Org line C,France,Louis,fr,V3_3,Accepted_In Progress,Medium,PROD612,18.978713765688234,1-748028911,Role 1
+Org line C,France,Louis,fr,V3_3,Accepted_In Progress,Medium,PROD612,18.9787159806173,1-748028911,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.979072537397776,1-748341571,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Wait,High,PROD236,18.979105428520015,1-748341571,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97910844925418,1-748341709,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Wait,Medium,PROD236,18.97910859228114,1-748341709,Role 1
+Org line A2,United Kingdom,Rosemary,gb,A2_1,Accepted_In Progress,High,PROD236,18.979079231277947,1-748373500,Role 1
+Org line A2,United Kingdom,Rosemary,gb,A2_1,Accepted_Wait,High,PROD236,18.97908004369454,1-748373500,Role 1
+Org line V2,Sweden,Björn,se,NAN,Accepted_In Progress,Medium,PROD449,18.979100548413157,1-748414511,Role 1
+Org line A2,China,Fiona,cn,D_1,Accepted_In Progress,Medium,PROD607,18.97910697893585,1-748432219,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,High,PROD98,18.979099455677876,1-748438405,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Completed_Closed,High,PROD98,18.97910122350556,1-748438405,Role 1
+Org line C,Sweden,Christer,se,C_6,Accepted_In Progress,Medium,PROD805,18.979146425054115,1-748531941,Role 1
+Org line C,Sweden,Christer,se,C_6,Accepted_Assigned,Medium,PROD805,18.979151036057882,1-748531941,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD818,18.979208248493606,1-748720121,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD818,18.98953254827317,1-748720121,Role 1
+Org line C,Sweden,Tarun,in,E_10,Accepted_In Progress,High,PROD154,18.979228355876586,1-748764090,Role 1
+Org line A2,Sweden,Dusan,se,A2_3,Accepted_In Progress,Major,PROD617,18.979248171121053,1-748801231,Role 1
+Org line G4,Sweden,Katarina,se,NAN,Accepted_In Progress,High,PROD374,18.97933278191565,1-748843986,Role 1
+Org line G4,Sweden,Katarina,se,NAN,Accepted_Assigned,High,PROD374,18.989008387519014,1-748843986,Role 1
+Org line G4,Sweden,Peter,se,NAN,Accepted_In Progress,Medium,PROD502,18.979544637857735,1-748947671,Role 1
+Org line G4,Sweden,Peter,se,NAN,Accepted_Assigned,Medium,PROD502,18.979545650046568,1-748947671,Role 1
+Org line G4,Sweden,Christer,se,NAN,Accepted_In Progress,Medium,PROD412,18.97959078004639,1-749042472,Role 1
+Org line A2,United Kingdom,Andrew,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.979727072633782,1-749053411,Role 1
+Org line C,Sweden,Christer,se,C_6,Accepted_In Progress,Major,PROD805,18.979631179161174,1-749112097,Role 1
+Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,High,PROD802,18.979605298755487,1-749119026,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.979607906268154,1-749119026,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.979627736865673,1-749119026,Role 1
+Org line C,Sweden,Christian,se,C_6,Accepted_In Progress,High,PROD802,18.9796947965957,1-749119026,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.97970822172444,1-749119026,Role 1
+Org line A2,Sweden,Hongming,se,A2_4,Accepted_In Progress,Medium,PROD67,18.979653222151303,1-749162875,Role 1
+Org line A2,Sweden,Hongming,se,A2_4,Accepted_Assigned,Medium,PROD67,18.9796548288976,1-749162875,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD589,18.979649859983432,1-749184198,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD589,18.97966675647802,1-749184198,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD589,18.97966670501705,1-749184744,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD589,18.97966679650322,1-749184744,Role 1
+Org line A2,Brazil,Henrique,br,A2_2,Accepted_In Progress,Medium,PROD134,18.97966311989619,1-749184751,Role 1
+Org line A2,Brazil,Henrique,br,A2_2,Queued_Awaiting Assignment,Medium,PROD134,18.982253752424327,1-749184751,Role 1
+Org line A2,Brazil,Flavio,br,A2_2,Accepted_Assigned,Medium,PROD134,18.98309794141621,1-749184751,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.979698267248896,1-749184839,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.97969920495214,1-749184839,Role 1
+Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.979689702089537,1-749285083,Role 1
+Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.97969172045479,1-749285250,Role 1
+Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Low,PROD412,18.979693412905235,1-749285407,Role 1
+Org line G4,Sweden,Erik,se,NAN,Accepted_In Progress,Medium,PROD343,18.97969888476089,1-749290225,Role 1
+Org line G4,Sweden,Erik,se,NAN,Accepted_In Progress,Medium,PROD343,18.985522805383376,1-749290225,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD589,18.979702721331478,1-749306975,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD521,18.980028936087226,1-749307260,Role 1
+Org line A2,United Kingdom,Timothy,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.979717735846243,1-749313527,Role 1
+Org line A2,United Kingdom,Timothy,gb,A2_1,Accepted_Wait,Medium,PROD236,18.97972045169974,1-749313527,Role 1
+Org line A2,Sweden,Britt,se,A2_1,Accepted_In Progress,Medium,PROD350,18.97976532796682,1-749375951,Role 1
+Org line A2,Sweden,Britt,se,A2_1,Accepted_Wait,Medium,PROD350,18.979767626327614,1-749375951,Role 1
+Org line A2,USA,Joakim,us,A2_4,Accepted_Wait,Low,PROD546,18.97982772487209,1-749402183,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD557,18.980034863369852,1-749527522,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD557,18.980048832641433,1-749527522,Role 1
+Org line A2,POLAND,Piotr,pl,A2_2,Accepted_Assigned,Medium,PROD442,18.980040979236993,1-749550065,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Low,PROD521,18.980048581150545,1-749572004,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_Wait,Low,PROD521,18.98005139898803,1-749572004,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98007853098446,1-749614245,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.980080908642766,1-749614245,Role 1
+Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Medium,PROD236,18.980117310114238,1-749657781,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.980170301063872,1-749730150,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.982021272239102,1-749730150,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.986024399147933,1-749730150,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.988882656821765,1-749730150,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,Medium,PROD98,18.980170323923897,1-749747547,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Completed_Closed,Medium,PROD98,18.980170918284443,1-749747547,Role 1
+Org line C,INDIA,Anup,in,E_8,Accepted_In Progress,Medium,PROD597,18.98015826518653,1-749760823,Role 1
+Org line C,France,Jonathan,fr,E_6,Accepted_In Progress,Low,PROD525,18.980189011822,1-749821849,Role 1
+Org line A2,Belgium,Marc,be,A2_4,Accepted_In Progress,Medium,PROD41,18.98016821508411,1-749840934,Role 1
+Org line A2,Belgium,Marc,be,A2_4,Queued_Awaiting Assignment,Medium,PROD41,18.980169146631773,1-749840934,Role 1
+Org line A2,Belgium,Marc,be,A2_4,Accepted_In Progress,Medium,PROD41,18.983175435294317,1-749840934,Role 1
+Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,Medium,PROD802,18.980179039271516,1-749851721,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD802,18.980179879369864,1-749851721,Role 1
+Org line C,Sweden,Raja,se,E_10,Accepted_In Progress,Medium,PROD802,18.98018821173566,1-749851721,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,Medium,PROD802,18.980188663213028,1-749851721,Role 1
+Org line C,Sweden,Steve,se,C_6,Queued_Awaiting Assignment,Medium,PROD802,18.98053448071858,1-749851721,Role 1
+Org line C,Sweden,Lennart,se,C_6,Accepted_In Progress,Medium,PROD802,18.98053560045148,1-749851721,Role 1
+Org line C,Sweden,Lennart,se,C_6,Accepted_Wait,Medium,PROD802,18.982055087579077,1-749851721,Role 1
+Org line A2,Sweden,Agneta,se,A2_3,Accepted_In Progress,Low,PROD530,18.98020229887657,1-749871888,Role 1
+Org line A2,POLAND,Janusz,pl,A2_1,Accepted_In Progress,Medium,PROD756,18.980203538992654,1-749886936,Role 1
+Org line B,INDIA,Murali,in,E_10,Accepted_In Progress,High,PROD209,18.980236358648845,1-749931426,Role 1
+Org line C,Belgium,Astrid,be,V3_2,Accepted_In Progress,Low,PROD424,18.980215368594138,1-749938024,Role 1
+Org line C,Belgium,Astrid,be,V3_2,Accepted_Wait,Low,PROD424,18.980216608694015,1-749938024,Role 1
+Org line C,INDIA,Shamna,in,E_4,Accepted_In Progress,Medium,PROD436,18.980447686177687,1-750007716,Role 1
+Org line C,INDIA,Shamna,in,E_4,Queued_Awaiting Assignment,Medium,PROD436,18.980448880282182,1-750007716,Role 1
+Org line C,INDIA,Avronil,in,E_4,Accepted_In Progress,Medium,PROD436,18.98046536334924,1-750007716,Role 1
+Org line C,INDIA,Avronil,in,E_4,Accepted_Wait,Medium,PROD436,18.98046586040805,1-750007716,Role 1
+Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,Medium,PROD802,18.980539245287652,1-750090643,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD802,18.980549128553992,1-750090643,Role 1
+Org line C,Sweden,Arun,se,E_10,Accepted_In Progress,Medium,PROD802,18.98309619773487,1-750090643,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,Medium,PROD802,18.983096887230143,1-750090643,Role 1
+Org line C,France,Aurelien,se,C_6,Accepted_In Progress,Medium,PROD802,18.98311409026819,1-750090643,Role 1
+Org line C,France,Aurelien,se,C_6,Accepted_Wait,Medium,PROD802,18.983599055405925,1-750090643,Role 1
+Org line C,Sweden,Tomas,se,C_6,Accepted_In Progress,Medium,PROD424,18.980542267406626,1-750106623,Role 1
+Org line C,Sweden,Tomas,se,C_6,Queued_Awaiting Assignment,Medium,PROD424,18.980545797961277,1-750106623,Role 1
+Org line C,Sweden,Kenneth,se,C_6,Accepted_In Progress,Medium,PROD424,18.98298125051773,1-750106623,Role 1
+Org line C,Sweden,Tomas,se,C_6,Accepted_Assigned,Medium,PROD424,18.98702375614567,1-750106623,Role 1
+Org line C,Sweden,Tomas,se,C_6,Accepted_In Progress,Medium,PROD424,18.98702648628517,1-750106623,Role 1
+Org line V2,Sweden,Åsa,se,NAN,Accepted_In Progress,Medium,PROD615,18.980551984971157,1-750161066,Role 1
+Org line V2,Sweden,Åsa,se,NAN,Accepted_Assigned,Medium,PROD615,18.980555458363433,1-750161066,Role 1
+Org line V2,Sweden,Åsa,se,NAN,Accepted_In Progress,Medium,PROD615,18.980552270612424,1-750161245,Role 1
+Org line V2,Sweden,Åsa,se,NAN,Accepted_Assigned,Medium,PROD615,18.980552984715235,1-750161245,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.980562170888337,1-750179984,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.982037392852504,1-750179984,Role 1
+Org line G4,Sweden,Ingela,se,NAN,Accepted_In Progress,Low,PROD406,18.980576784042057,1-750196720,Role 1
+Org line A2,INDIA,Pramod,us,A2_4,Accepted_Wait,Low,PROD552,18.980581891168956,1-750209134,Role 1
+Org line A2,INDIA,Pramod,us,A2_4,Accepted_Wait,Medium,PROD552,18.98058402198712,1-750209298,Role 1
+Org line C,POLAND,Marcin,pl,C_6,Accepted_In Progress,High,PROD452,18.980599480280002,1-750239221,Role 1
+Org line G4,Sweden,Lars-Göran,se,NAN,Accepted_In Progress,Low,PROD374,18.980637176718893,1-750255303,Role 1
+Org line C,Sweden,Christoffer,se,V3_2,Accepted_In Progress,Low,PROD412,18.98065267988813,1-750293610,Role 1
+Org line C,INDIA,Mohsin,in,E_5,Queued_Awaiting Assignment,High,PROD745,18.980672975309787,1-750411941,Role 1
+Org line C,INDIA,Mohsin,in,E_5,Accepted_In Progress,High,PROD745,18.981999783388204,1-750411941,Role 1
+Org line C,INDIA,Mohsin,in,E_5,Accepted_Wait,High,PROD745,18.98200197393728,1-750411941,Role 1
+Org line C,Belgium,Peter,in,E_1,Queued_Awaiting Assignment,High,PROD745,18.982037210313397,1-750411941,Role 1
+Org line C,INDIA,Mohsin,in,E_5,Accepted_In Progress,High,PROD745,18.98203756398289,1-750411941,Role 1
+Org line C,INDIA,Mohsin,in,E_5,Accepted_Wait,High,PROD745,18.982038111599916,1-750411941,Role 1
+Org line D,Belgium,Wim,us,D_2,Accepted_In Progress,Medium,PROD618,18.980685616184676,1-750437951,Role 1
+Org line D,Belgium,Wim,us,D_2,Queued_Awaiting Assignment,Medium,PROD618,18.980689877374452,1-750437951,Role 1
+Org line C,France,Celine,fr,V3_3,Accepted_In Progress,Medium,PROD374,18.980728946954343,1-750473129,Role 1
+Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,High,PROD802,18.980771796074727,1-750499270,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD802,18.98077705641738,1-750499270,Role 1
+Org line C,Sweden,Kreeti,se,E_10,Accepted_In Progress,High,PROD802,18.98077795312884,1-750499270,Role 1
+Org line C,Sweden,Sandeep,se,E_10,Accepted_Assigned,High,PROD802,18.98079660682947,1-750499270,Role 1
+Org line C,Sweden,Sandeep,se,E_10,Accepted_Wait,High,PROD802,18.980872908607953,1-750499270,Role 1
+Org line C,Sweden,Sandeep,se,E_10,Accepted_In Progress,High,PROD802,18.98285337466336,1-750499270,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD802,18.982853614050473,1-750499270,Role 1
+Org line C,Sweden,Martin,se,C_6,Accepted_In Progress,High,PROD802,18.98299009527236,1-750499270,Role 1
+Org line C,Belgium,Peter,be,E_5,Accepted_In Progress,Medium,PROD745,18.98203641740876,1-750717620,Role 1
+Org line C,Belgium,Peter,be,E_5,Accepted_In Progress,Medium,PROD745,18.98203669121763,1-750717620,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.9820389330249,1-750717620,Role 1
+Org line C,Sweden,Kell,be,E_1,Accepted_Assigned,Medium,PROD745,18.982596040276388,1-750717620,Role 1
+Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Low,PROD236,18.982053342078384,1-750823791,Role 1
+Org line C,Sweden,Lars-Ove,us,E_4,Accepted_In Progress,Medium,PROD815,18.982041648286007,1-750838075,Role 1
+Org line C,Sweden,Ranveer,in,E_10,Accepted_In Progress,Low,PROD805,18.982169120356232,1-751087171,Role 1
+Org line C,Sweden,Ranveer,in,E_10,Accepted_Wait,Low,PROD805,18.982170494921736,1-751087171,Role 1
+Org line C,Sweden,Ranveer,in,E_10,Accepted_In Progress,Low,PROD805,18.98366531971622,1-751087171,Role 1
+Org line C,Sweden,Ranveer,in,E_10,Accepted_Wait,Low,PROD805,18.98366944863191,1-751087171,Role 1
+Org line C,Sweden,Habib,us,E_4,Accepted_In Progress,Major,PROD348,18.982222185198207,1-751140095,Role 1
+Org line C,Sweden,Habib,us,E_4,Accepted_Assigned,Major,PROD348,18.982538074894954,1-751140095,Role 1
+Org line C,Sweden,Johnny,se,E_2,Accepted_In Progress,High,PROD328,18.982487313230074,1-751197742,Role 1
+Org line C,Sweden,Rolf,se,E_3,Accepted_In Progress,Medium,PROD714,18.982515337089378,1-751277838,Role 1
+Org line A2,China,Yu,cn,A2_2,Accepted_In Progress,Low,PROD753,18.982553999033204,1-751447190,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98256909622764,1-751457471,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.982569187448664,1-751457471,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.982597112094037,1-751461582,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.982600088092337,1-751461582,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98260058979233,1-751461582,Role 1
+Org line A2,Sweden,Tomas,cn,A2_2,Accepted_In Progress,Low,PROD753,18.98259149073975,1-751492205,Role 1
+Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_Wait,Medium,PROD698,18.982625503441167,1-751548681,Role 1
+Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.982625583255064,1-751548681,Role 1
+Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.98262577138779,1-751548681,Role 1
+Org line A2,POLAND,Tomasz,fr,A2_2,Accepted_Wait,Medium,PROD698,18.98263902040372,1-751548681,Role 1
+Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Low,PROD236,18.982630400581982,1-751568641,Role 1
+Org line G4,Sweden,Charlotta,se,NAN,Accepted_In Progress,Low,PROD412,18.98265287923383,1-751683081,Role 1
+Org line G4,Sweden,Charlotta,se,NAN,Accepted_Assigned,Low,PROD412,18.98265345501817,1-751683081,Role 1
+Org line A2,POLAND,Anna,fr,A2_2,Accepted_In Progress,Medium,PROD200,18.982672125073407,1-751689562,Role 1
+Org line A2,POLAND,Bartlomiej,pl,D_1,Accepted_In Progress,Medium,PROD74,18.982706328850494,1-751729551,Role 1
+Org line A2,POLAND,Bartlomiej,pl,D_1,Accepted_In Progress,Medium,PROD74,18.982706477064315,1-751729551,Role 1
+Org line A2,Brazil,Carla,br,A2_2,Accepted_In Progress,Major,PROD126,18.9827284010669,1-751772104,Role 1
+Org line A2,Brazil,Carla,br,A2_2,Accepted_Wait,Major,PROD126,18.98308892096653,1-751772104,Role 1
+Org line A2,China,Cindy,cn,A2_2,Accepted_In Progress,Low,PROD753,18.982974582706408,1-751904239,Role 1
+Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,Medium,PROD350,18.983086681511896,1-752141231,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD350,18.983154432767353,1-752141231,Role 1
+Org line C,Sweden,Gaurav,se,E_10,Accepted_In Progress,Medium,PROD350,18.98315807946673,1-752141231,Role 1
+Org line B,INDIA,Ganesh,se,C_6,Queued_Awaiting Assignment,Medium,PROD350,18.98315988001964,1-752141231,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,Medium,PROD350,18.983384781190342,1-752141231,Role 1
+Org line C,Sweden,Umar Farooque,se,E_10,Accepted_In Progress,Medium,PROD350,18.983393924297147,1-752141231,Role 1
+Org line B,INDIA,Ganesh,se,C_6,Queued_Awaiting Assignment,Medium,PROD350,18.983465733231277,1-752141231,Role 1
+Org line B,INDIA,Anandgiri,se,C_6,Accepted_In Progress,Medium,PROD350,18.983573545181137,1-752141231,Role 1
+Org line A2,Sweden,Britt,se,A2_1,Queued_Awaiting Assignment,Medium,PROD350,18.99044472718147,1-752141231,Role 1
+Org line A2,France,Frederic,fr,A2_2,Accepted_In Progress,Medium,PROD196,18.98308893236323,1-752141295,Role 1
+Org line A2,France,Frederic,fr,A2_2,Queued_Awaiting Assignment,Medium,PROD196,18.983089570578386,1-752141295,Role 1
+Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Low,PROD236,18.983106152632885,1-752158401,Role 1
+Org line A2,Sweden,Saki,us,A2_4,Accepted_In Progress,Medium,PROD521,18.983122130407416,1-752184442,Role 1
+Org line G4,Sweden,Johan,se,NAN,Accepted_In Progress,Medium,PROD412,18.983508653212304,1-752195185,Role 1
+Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,Medium,PROD236,18.98314618206093,1-752253951,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD235,18.98316828445634,1-752262129,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD235,18.98317968588772,1-752262129,Role 1
+Org line C,Sweden,Jari,us,E_1,Queued_Awaiting Assignment,Medium,PROD153,18.983203730459294,1-752294640,Role 1
+Org line C,Sweden,Maria,us,E_1,Accepted_Assigned,Medium,PROD153,18.989444419228526,1-752294640,Role 1
+Org line C,Sweden,Maria,us,E_1,Accepted_Assigned,Medium,PROD153,18.98947309811577,1-752294640,Role 1
+Org line C,USA,William,us,E_1,Queued_Awaiting Assignment,Medium,PROD153,18.989473103777858,1-752294640,Role 2
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.9832060836055,1-752294659,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.983207075002,1-752294659,Role 1
+Org line C,INDIA,Ruhi,se,E_7,Accepted_Assigned,Medium,PROD673,18.985473468397785,1-752294659,Role 1
+Org line C,INDIA,Santosh,se,E_7,Accepted_Assigned,Medium,PROD673,18.98547838003535,1-752294659,Role 1
+Org line C,INDIA,Santosh,se,E_7,Accepted_In Progress,Medium,PROD673,18.990533955896353,1-752294659,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.983209052094388,1-752294699,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.983209656046903,1-752294699,Role 1
+Org line C,INDIA,Santosh,se,E_7,Accepted_Assigned,Medium,PROD673,18.985473837908394,1-752294699,Role 1
+Org line C,Sweden,Olof,se,E_3,Accepted_In Progress,Medium,PROD379,18.98351540859826,1-752521529,Role 1
+Org line V2,Sweden,Tonie,se,NAN,Accepted_In Progress,Medium,PROD257,18.983560695846254,1-752541471,Role 1
+Org line V2,Sweden,Tonie,se,NAN,Accepted_Assigned,Medium,PROD257,18.985604863446948,1-752541471,Role 1
+Org line G4,Sweden,Håkan,se,NAN,Accepted_In Progress,Medium,PROD397,18.983516775618536,1-752542242,Role 1
+Org line A2,Sweden,Ann-Charlotte,se,A2_3,Accepted_In Progress,Medium,PROD368,18.98354133040197,1-752580191,Role 1
+Org line C,INDIA,-,in,E_7,Queued_Awaiting Assignment,Medium,PROD424,18.983566528188934,1-752629415,Role 1
+Org line C,INDIA,Rajendra,in,E_7,Accepted_In Progress,Medium,PROD424,18.985219474297423,1-752629415,Role 1
+Org line A2,Sweden,Britt,se,A2_1,Accepted_In Progress,High,PROD350,18.983569563955403,1-752643661,Role 1
+Org line A2,Sweden,Britt,se,A2_1,Accepted_Wait,High,PROD350,18.983628648501714,1-752643661,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.983612302923895,1-752702791,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.983618095098237,1-752702791,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.9836757815012,1-752799402,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.983677974076997,1-752799402,Role 1
+Org line C,Sweden,Leif,se,E_10,Accepted_In Progress,High,PROD646,18.983673902146695,1-752809009,Role 1
+Org line C,France,Celine,fr,V3_3,Accepted_In Progress,Medium,PROD30,18.98366491536632,1-752828161,Role 1
+Org line C,France,Celine,fr,V3_3,Queued_Awaiting Assignment,Medium,PROD30,18.98366563863997,1-752828161,Role 1
+Org line C,France,Celine,fr,V3_3,Accepted_In Progress,Medium,PROD30,18.98649481989353,1-752828161,Role 1
+Org line C,France,Fabrice,fr,V3_3,Accepted_Assigned,Medium,PROD30,18.989443609526386,1-752828161,Role 1
+Org line C,INDIA,Atul,se,E_1,Accepted_In Progress,Low,PROD567,18.983965501550927,1-753034398,Role 1
+Org line C,INDIA,Vinodhkumar,se,E_5,Accepted_In Progress,Medium,PROD325,18.983989994079625,1-753055854,Role 1
+Org line C,INDIA,Vinodhkumar,se,E_5,Queued_Awaiting Assignment,Medium,PROD325,18.983993717438015,1-753055854,Role 1
+Org line C,INDIA,Freddy,se,E_4,Accepted_In Progress,Medium,PROD325,18.984046167495165,1-753055854,Role 1
+Org line C,Sweden,Inger,se,C_3,Queued_Awaiting Assignment,Medium,PROD325,18.986438494218667,1-753055854,Role 1
+Org line C,INDIA,Amar,se,C_3,Accepted_In Progress,Medium,PROD325,18.98747835503261,1-753055854,Role 1
+Org line A2,Sweden,Linda,se,A2_3,Accepted_In Progress,Medium,PROD319,18.984009663958314,1-753118981,Role 1
+Org line A2,Sweden,Linda,se,A2_3,Accepted_In Progress,Medium,PROD319,18.98401065455847,1-753119403,Role 1
+Org line A2,Sweden,Sandeep,se,D_1,Accepted_Assigned,Medium,PROD607,18.984028633211455,1-753140751,Role 1
+Org line A2,Sweden,Sandeep,se,D_1,Accepted_In Progress,Medium,PROD607,18.984055378563884,1-753140751,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.984026987933344,1-753170915,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.984028428263464,1-753170915,Role 1
+Org line G4,Sweden,Erik,se,NAN,Accepted_In Progress,Low,PROD176,18.98406256860368,1-753174310,Role 1
+Org line G4,Sweden,Erik,se,NAN,Accepted_Assigned,Low,PROD176,18.9840645496982,1-753174310,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.9841048766427,1-753202887,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.984127202633914,1-753202887,Role 1
+Org line G4,Sweden,Ing-Marie,se,NAN,Accepted_In Progress,Medium,PROD609,18.98410370966617,1-753238365,Role 1
+Org line G4,Sweden,Ing-Marie,se,NAN,Queued_Awaiting Assignment,Medium,PROD609,18.98411174754521,1-753238365,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98408570389955,1-753244396,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98408592591382,1-753244396,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.984087309232404,1-753244555,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98408819159511,1-753244555,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.984091362401767,1-753244649,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.985600049059613,1-753244649,Role 1
+Org line C,Belgium,Marc,be,E_6,Accepted_In Progress,Medium,PROD149,18.984083751310365,1-753245663,Role 1
+Org line C,Belgium,Marc,be,E_6,Queued_Awaiting Assignment,Medium,PROD149,18.984093041729764,1-753245663,Role 1
+Org line C,Belgium,Ludwig,be,E_6,Accepted_In Progress,Medium,PROD149,18.98943782834729,1-753245663,Role 1
+Org line C,Sweden,Partha,be,E_10,Accepted_In Progress,Medium,PROD149,18.989890782378744,1-753245663,Role 1
+Org line C,Belgium,Marc,be,E_6,Queued_Awaiting Assignment,Medium,PROD149,18.98989184640621,1-753245663,Role 1
+Org line C,Belgium,Marc,be,E_6,Accepted_In Progress,Medium,PROD149,18.989918565575866,1-753245663,Role 1
+Org line C,Sweden,Fredrik,se,V3_2,Accepted_In Progress,Low,PROD253,18.984091459176675,1-753287118,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Medium,PROD673,18.984122255893023,1-753301833,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.984128620049983,1-753301833,Role 1
+Org line C,INDIA,Rohan,se,E_7,Accepted_Assigned,Medium,PROD673,18.985474014136486,1-753301833,Role 1
+Org line A2,Sweden,Dusan,se,A2_3,Accepted_In Progress,Major,PROD617,18.984148429510075,1-753362545,Role 1
+Org line A2,Sweden,Dusan,se,A2_3,Accepted_Wait,Major,PROD617,18.98754618950075,1-753362545,Role 1
+Org line C,Sweden,Ann-Charlotte,us,E_10,Accepted_In Progress,High,PROD802,18.984299258848456,1-753487360,Role 1
+Org line C,Sweden,Ann-Charlotte,us,E_10,Queued_Awaiting Assignment,High,PROD802,18.98431021484644,1-753487360,Role 1
+Org line C,Sweden,Mats,us,E_10,Accepted_In Progress,High,PROD802,18.987462344587307,1-753487360,Role 1
+Org line C,Sweden,Martin,us,C_6,Queued_Awaiting Assignment,High,PROD802,18.98746254315925,1-753487360,Role 1
+Org line C,Sweden,Andreas,us,C_6,Accepted_In Progress,High,PROD802,18.987467155690652,1-753487360,Role 1
+Org line C,Sweden,Andreas,us,C_6,Accepted_Wait,High,PROD802,18.987547431888927,1-753487360,Role 1
+Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,High,PROD802,18.99085209397873,1-753487360,Role 1
+Org line C,Sweden,Ann-Charlotte,us,E_10,Accepted_In Progress,High,PROD802,18.98430024916178,1-753504966,Role 1
+Org line C,Sweden,Ann-Charlotte,us,E_10,Queued_Awaiting Assignment,High,PROD802,18.984310226229237,1-753504966,Role 1
+Org line C,Sweden,Mats,us,E_10,Accepted_In Progress,High,PROD802,18.985457994307826,1-753504966,Role 1
+Org line C,Sweden,Martin,us,C_6,Queued_Awaiting Assignment,High,PROD802,18.985458807243564,1-753504966,Role 1
+Org line C,Sweden,Andreas,us,C_6,Accepted_In Progress,High,PROD802,18.98546978465378,1-753504966,Role 1
+Org line C,Sweden,Andreas,us,C_6,Accepted_Wait,High,PROD802,18.985487896264484,1-753504966,Role 1
+Org line C,INDIA,Shamna,us,E_4,Queued_Awaiting Assignment,High,PROD802,18.9870972970294,1-753504966,Role 1
+Org line C,INDIA,Shamna,us,E_4,Accepted_In Progress,High,PROD802,18.987359864858057,1-753504966,Role 1
+Org line C,INDIA,Shamna,us,E_4,Accepted_Wait,High,PROD802,18.987360046428154,1-753504966,Role 1
+Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,High,PROD802,18.987408450705086,1-753504966,Role 1
+Org line C,Sweden,Jagannath,us,E_4,Accepted_In Progress,High,PROD802,18.989968662802244,1-753504966,Role 1
+Org line C,Japan,Ryouhei,jp,E_10,Accepted_In Progress,Medium,PROD802,18.98483225848159,1-753569621,Role 1
+Org line C,Japan,Ryouhei,jp,E_10,Accepted_In Progress,Medium,PROD802,18.984834482653667,1-753569621,Role 1
+Org line C,Japan,Ryouhei,jp,E_10,Accepted_Wait,Medium,PROD802,18.988833887592406,1-753569621,Role 1
+Org line C,USA,Thomas,us,NAN,Accepted_In Progress,Medium,PROD330,18.985235412655566,1-753646102,Role 1
+Org line A2,INDIA,Amit,us,A2_4,Accepted_In Progress,Medium,PROD500,18.985450791554598,1-753713441,Role 1
+Org line A2,Belgium,Marc,be,A2_4,Accepted_In Progress,Medium,PROD41,18.98549374580125,1-753768558,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.985494746301683,1-753815551,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98552909810419,1-753815551,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.985497395349128,1-753815676,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.985544184556325,1-753815676,Role 1
+Org line C,France,Michel,fr,NAN,Accepted_In Progress,Medium,PROD209,18.98551040741377,1-753878023,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD235,18.985556764004986,1-753944613,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD235,18.985599708015947,1-753944613,Role 1
+Org line C,Sweden,Praveen,se,E_10,Accepted_In Progress,High,PROD154,18.98571964021737,1-754168350,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD154,18.987151877362344,1-754168350,Role 1
+Org line C,Sweden,Parbhat,se,E_10,Accepted_In Progress,High,PROD154,18.98715351750717,1-754168350,Role 1
+Org line C,Sweden,Ankit,se,E_10,Accepted_Assigned,High,PROD154,18.987153755867098,1-754168350,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD154,18.98716780765176,1-754168350,Role 1
+Org line A2,Sweden,Ratikanta,se,A2_1,Accepted_In Progress,Medium,PROD730,18.985970029974467,1-754350709,Role 1
+Org line A2,Sweden,Ratikanta,se,A2_1,Accepted_Wait,Medium,PROD730,18.986070101284945,1-754350709,Role 1
+Org line G1,Sweden,Jenny,se,E_6,Accepted_In Progress,High,PROD292,18.985973569827735,1-754450223,Role 1
+Org line G1,Sweden,Jenny,se,E_6,Accepted_In Progress,High,PROD292,18.985974098247773,1-754450603,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,High,PROD671,18.98601555278193,1-754526611,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,High,PROD671,18.986026614988436,1-754526611,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,High,PROD671,18.986126760171764,1-754526611,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.986023757121437,1-754539158,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.98602523434993,1-754539158,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98604180188618,1-754582299,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.986097865847288,1-754582299,Role 1
+Org line C,Sweden,Olle,se,E_2,Accepted_In Progress,High,PROD330,18.98602962056937,1-754584941,Role 1
+Org line C,Sweden,Olle,se,E_2,Accepted_Assigned,High,PROD330,18.986032307971517,1-754584941,Role 1
+Org line C,Sweden,Olle,se,E_2,Accepted_In Progress,High,PROD330,18.986036847562545,1-754584941,Role 1
+Org line C,USA,Mats,be,E_3,Accepted_In Progress,Medium,PROD382,18.98609275272613,1-754744405,Role 1
+Org line B,INDIA,Srinivasan,in,E_10,Queued_Awaiting Assignment,High,PROD452,18.98639687546898,1-754949761,Role 1
+Org line B,INDIA,Rijin,in,E_10,Accepted_In Progress,High,PROD452,18.986397341190553,1-754949761,Role 1
+Org line B,INDIA,Sujith,in,E_10,Accepted_Assigned,High,PROD452,18.987478065689487,1-754949761,Role 1
+Org line B,INDIA,Sujith,in,E_10,Accepted_Wait,High,PROD452,18.987527451376792,1-754949761,Role 1
+Org line B,INDIA,Sujith,in,E_10,Accepted_In Progress,High,PROD452,18.98949076367447,1-754949761,Role 1
+Org line B,INDIA,Sujith,in,E_10,Accepted_Wait,High,PROD452,18.98951581199582,1-754949761,Role 1
+Org line C,Japan,Ryou,jp,V3_2,Accepted_In Progress,Major,PROD214,18.986382233526438,1-755039071,Role 1
+Org line A2,Brazil,Flavio,br,A2_2,Accepted_In Progress,Medium,PROD135,18.986524230880146,1-755123451,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_1,Accepted_In Progress,Medium,PROD761,18.986529086250435,1-755151337,Role 1
+Org line A2,POLAND,Krzysztof,pl,A2_1,Accepted_Wait,Medium,PROD761,18.98653599162535,1-755151337,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.986582573266436,1-755193882,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98658275497772,1-755193882,Role 1
+Org line A2,USA,David,us,A2_3,Accepted_In Progress,Medium,PROD488,18.98660046599098,1-755198841,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.98658958616235,1-755218095,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.990357068832115,1-755218095,Role 1
+Org line B,Brazil,Thiago,br,E_6,Accepted_In Progress,High,PROD143,18.986705777295185,1-755248531,Role 1
+Org line F,Belgium,Marc,se,NAN,Accepted_In Progress,Low,PROD535,18.986953502154588,1-755443602,Role 1
+Org line F,Belgium,Marc,se,NAN,Accepted_Assigned,Low,PROD535,18.986953837060494,1-755443602,Role 1
+Org line F,Belgium,Marc,se,NAN,Accepted_In Progress,Low,PROD535,18.986958854959266,1-755443602,Role 1
+Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Medium,PROD681,18.986970508421148,1-755467807,Role 1
+Org line A2,Sweden,Niklas,se,A2_2,Queued_Awaiting Assignment,Medium,PROD681,18.986971053343467,1-755467807,Role 1
+Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Medium,PROD681,18.986972023985608,1-755467807,Role 1
+Org line C,Sweden,Börje,se,E_7,Accepted_In Progress,Medium,PROD671,18.98696566654627,1-755478621,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,Major,PROD673,18.987103097430854,1-755773369,Role 1
+Org line C,Canada,Eric,ca,NAN,Accepted_In Progress,Low,OTHERS,18.987154771733756,1-755797667,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.987438782328283,1-755985697,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98744055816922,1-755985697,Role 1
+Org line C,Sweden,Rakesh,se,E_10,Accepted_In Progress,High,PROD659,18.987470389556073,1-756110987,Role 1
+Org line C,Sweden,Rakesh,se,E_10,Queued_Awaiting Assignment,High,PROD659,18.987470928532627,1-756110987,Role 1
+Org line C,Sweden,Manisha,se,E_10,Accepted_In Progress,High,PROD659,18.987474854542544,1-756110987,Role 1
+Org line C,Sweden,Praveen,se,E_10,Queued_Awaiting Assignment,High,PROD659,18.987478950738776,1-756110987,Role 1
+Org line C,Sweden,Martin,se,C_6,Queued_Awaiting Assignment,High,PROD659,18.987496606173718,1-756110987,Role 1
+Org line G4,Sweden,Rickard,se,NAN,Accepted_In Progress,Low,PROD374,18.98747035551544,1-756111935,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98756220994956,1-756265856,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.9875654832179,1-756265856,Role 1
+Org line C,Sweden,Martin,se,C_6,Accepted_In Progress,Low,PROD804,18.987563026849422,1-756296231,Role 1
+Org line C,Sweden,Martin,se,C_6,Accepted_In Progress,Low,PROD804,18.987567071628483,1-756296231,Role 1
+Org line C,Sweden,Andreas,se,C_6,Accepted_Assigned,Low,PROD804,18.988930675871945,1-756296231,Role 1
+Org line C,Sweden,Andreas,se,C_6,Accepted_In Progress,Low,PROD804,18.988985354502642,1-756296231,Role 1
+Org line V5,Sweden,Sachin,se,NAN,Accepted_In Progress,Medium,PROD221,18.987596110732998,1-756296861,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.987563554430228,1-756300970,Role 1
+Org line C,Sweden,Per,se,E_7,Accepted_In Progress,Medium,PROD673,18.989347612709377,1-756300970,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.98762937504327,1-756301789,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,Medium,PROD673,18.987629380715806,1-756301789,Role 1
+Org line C,Sweden,Per,se,E_7,Accepted_In Progress,Medium,PROD673,18.989347306918205,1-756301789,Role 1
+Org line C,Sweden,Neeraj,in,E_10,Accepted_In Progress,High,PROD802,18.98830466672474,1-756484463,Role 1
+Org line C,Sweden,Neeraj,in,E_10,Accepted_Wait,High,PROD802,18.988304899141728,1-756484463,Role 1
+Org line C,Sweden,Neeraj,in,E_10,Accepted_Wait,High,PROD802,18.988335135564366,1-756484463,Role 1
+Org line A2,China,Sophie,se,A2_1,Accepted_In Progress,Low,PROD350,18.988897126230857,1-756603706,Role 1
+Org line V2,Sweden,Leif,se,NAN,Accepted_In Progress,Medium,PROD615,18.988912224275165,1-756651699,Role 1
+Org line V2,Sweden,Leif,se,NAN,Accepted_In Progress,Medium,PROD615,18.988917011412347,1-756651699,Role 1
+Org line V2,Sweden,Leif,se,NAN,Accepted_Assigned,Medium,PROD615,18.988924274220505,1-756651699,Role 1
+Org line V2,Sweden,Leif,se,NAN,Accepted_Wait,Medium,PROD615,18.99036581464751,1-756651699,Role 1
+Org line A2,POLAND,Paulina,pl,A2_1,Accepted_In Progress,Major,PROD776,18.98891187869396,1-756712218,Role 1
+Org line A2,POLAND,Paulina,pl,A2_1,Queued_Awaiting Assignment,Major,PROD776,18.988917555275002,1-756712218,Role 1
+Org line A2,POLAND,Michal,pl,A2_1,Accepted_In Progress,Low,PROD110,18.988984402807326,1-756787020,Role 1
+Org line A2,POLAND,Przemyslaw,pl,A2_1,Accepted_In Progress,Medium,PROD761,18.988980686655037,1-756926423,Role 1
+Org line A2,POLAND,Przemyslaw,pl,A2_1,Accepted_Wait,Medium,PROD761,18.98898073197405,1-756926423,Role 1
+Org line A2,0,Sumesh,fr,A2_2,Accepted_Wait,Medium,PROD698,18.98903787761598,1-756979533,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,Medium,PROD98,18.988998055016534,1-756998975,Role 1
+Org line G3,POLAND,Ewa,us,NAN,Accepted_In Progress,Medium,PROD98,18.988999493869223,1-756998975,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.989048691188906,1-757096237,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.98905054347594,1-757096237,Role 1
+Org line A2,POLAND,Tomasz,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.98991684506622,1-757096237,Role 1
+Org line A2,POLAND,Tomasz,gb,A2_1,Accepted_Wait,Medium,PROD236,18.99050113309892,1-757096237,Role 1
+Org line C,France,Aurelie,se,C_5,Accepted_In Progress,Medium,PROD473,18.989041168715772,1-757113161,Role 1
+Org line C,France,Aurelie,se,C_5,Queued_Awaiting Assignment,Medium,PROD473,18.989043202281483,1-757113161,Role 1
+Org line C,Sweden,Mikael,se,C_5,Accepted_In Progress,Medium,PROD473,18.989045139546366,1-757113161,Role 1
+Org line F,Sweden,Craig,se,NAN,Queued_Awaiting Assignment,High,PROD417,18.98916426279678,1-757154661,Role 1
+Org line F,Sweden,Stefan,se,NAN,Accepted_In Progress,High,PROD417,18.989440670811707,1-757154661,Role 1
+Org line F,Sweden,William,se,NAN,Accepted_Assigned,High,PROD417,18.989441191740564,1-757154661,Role 2
+Org line F,Sweden,Milos,se,NAN,Accepted_Assigned,High,PROD417,18.98944462873177,1-757154661,Role 1
+Org line G4,United Kingdom,Ian,se,NAN,Accepted_In Progress,Medium,PROD236,18.989401130386952,1-757480343,Role 1
+Org line G4,United Kingdom,Ian,se,NAN,Accepted_Assigned,Medium,PROD236,18.990357187630895,1-757480343,Role 1
+Org line G4,Sweden,Ing-Marie,se,NAN,Queued_Awaiting Assignment,Medium,PROD236,18.99051320350673,1-757480343,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.989418553733998,1-757480762,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,High,PROD236,18.989451576287472,1-757480762,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,High,PROD236,18.99035713106005,1-757480762,Role 1
+Org line A2,China,Anson,cn,A2_5,Queued_Awaiting Assignment,Medium,PROD789,18.98943484431719,1-757510345,Role 1
+Org line V2,Sweden,Conny,se,NAN,Accepted_In Progress,High,PROD42,18.989426243239425,1-757533524,Role 1
+Org line V2,Sweden,Conny,se,NAN,Queued_Awaiting Assignment,High,PROD42,18.9894590560388,1-757533524,Role 1
+Org line V2,Sweden,Conny,se,NAN,Accepted_In Progress,High,PROD42,18.989498146879612,1-757533524,Role 1
+Org line C,Sweden,Peter,se,E_7,Accepted_In Progress,High,PROD673,18.989433615596326,1-757564651,Role 1
+Org line C,Sweden,Peter,se,E_7,Queued_Awaiting Assignment,High,PROD673,18.989434266761947,1-757564651,Role 1
+Org line C,Sweden,Sten,se,E_6,Queued_Awaiting Assignment,High,PROD673,18.99032968250791,1-757564651,Role 1
+Org line G4,Sweden,Lars-Göran,se,NAN,Accepted_In Progress,High,PROD374,18.989482270656353,1-757589842,Role 1
+Org line C,Sweden,Andreas,se,C_6,Accepted_In Progress,Medium,PROD802,18.989469547980256,1-757615671,Role 1
+Org line C,USA,Robert,us,E_4,Accepted_In Progress,Major,PROD348,18.989475781941906,1-757671208,Role 1
+Org line C,USA,Robert,us,E_4,Accepted_Wait,Major,PROD348,18.989476138652435,1-757671208,Role 1
+Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,Major,PROD348,18.989917750597982,1-757671208,Role 1
+Org line C,Sweden,Kjell,us,E_4,Accepted_In Progress,Major,PROD348,18.989917988299933,1-757671208,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.98947017081196,1-757671923,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.989470782319074,1-757671923,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.989489982319817,1-757671975,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.98949036733523,1-757671975,Role 1
+Org line A2,United Kingdom,Alan,gb,A2_1,Accepted_Wait,High,PROD236,18.98950863841094,1-757709801,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD821,18.98949156767645,1-757715045,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD821,18.98949187908549,1-757715045,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.989492632128776,1-757715125,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.989493555030673,1-757715125,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.98950312937988,1-757715285,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.989503576671304,1-757715285,Role 1
+Org line C,Belgium,Peter,be,E_1,Accepted_In Progress,Medium,PROD745,18.98950447125355,1-757715705,Role 1
+Org line C,Belgium,Peter,be,E_1,Queued_Awaiting Assignment,Medium,PROD745,18.98950522994926,1-757715705,Role 1
+Org line A2,Sweden,Jerker,se,A2_3,Accepted_In Progress,Low,PROD240,18.989509414089135,1-757779170,Role 1
+Org line A2,Sweden,Niklas,se,A2_2,Accepted_In Progress,Low,PROD681,18.98950892150524,1-757793972,Role 1
+Org line A2,0,Sumesh,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.98953076481987,1-757827277,Role 1
+Org line A2,0,Sumesh,fr,A2_2,Accepted_In Progress,Medium,PROD698,18.989546289249546,1-757827277,Role 1
+Org line A2,France,Frederic,fr,A2_2,Queued_Awaiting Assignment,Medium,PROD698,18.989548287818348,1-757827277,Role 1
+Org line G4,Sweden,Adam,se,NAN,Accepted_In Progress,Low,PROD409,18.98965440438673,1-757936055,Role 1
+Org line A2,Sweden,Dusan,se,A2_3,Accepted_In Progress,Major,PROD617,18.989872240952383,1-758090698,Role 1
+Org line C,France,Cyril,fr,E_6,Accepted_In Progress,High,PROD348,18.989877623434825,1-758109531,Role 1
+Org line A2,POLAND,Radoslaw,pl,A2_3,Accepted_In Progress,High,PROD791,18.98995118678419,1-758210759,Role 1
+Org line C,POLAND,Grzegorz,pl,E_10,Accepted_In Progress,High,PROD600,18.989944887872493,1-758231571,Role 1
+Org line C,POLAND,Grzegorz,pl,E_10,Queued_Awaiting Assignment,High,PROD600,18.990054340673705,1-758231571,Role 1
+Org line C,POLAND,Krystian,pl,E_10,Accepted_Assigned,High,PROD600,18.990373214022796,1-758231571,Role 1
+Org line C,Sweden,Jonas,in,E_8,Accepted_In Progress,Major,PROD473,18.99000655098297,1-758235785,Role 1
+Org line A2,Sweden,Stefan,se,D_1,Accepted_In Progress,High,PROD607,18.989954208889465,1-758257831,Role 1
+Org line A2,Sweden,Stefan,se,D_1,Accepted_Wait,High,PROD607,18.989954978562757,1-758257831,Role 1
+Org line C,Belgium,Wim,se,C_5,Accepted_In Progress,High,PROD618,18.989991707136372,1-758346501,Role 1
+Org line C,Belgium,Wim,se,C_5,Accepted_In Progress,High,PROD618,18.990003874240028,1-758346501,Role 1
+Org line C,Sweden,Lars,se,C_4,Accepted_In Progress,Medium,PROD673,18.99000914283294,1-758417452,Role 1
+Org line C,Sweden,Lars,se,C_4,Accepted_Wait,Medium,PROD673,18.990012498646173,1-758417452,Role 1
+Org line C,Sweden,Richard,se,V3_2,Accepted_In Progress,Medium,PROD412,18.990049700448605,1-758488261,Role 1
+Org line C,Sweden,Richard,se,V3_2,Queued_Awaiting Assignment,Medium,PROD412,18.990050028660356,1-758488261,Role 1
+Org line C,Sweden,Joakim,se,V3_2,Accepted_In Progress,Medium,PROD412,18.99014774043105,1-758488261,Role 1
+Org line G4,Sweden,Viktoria,se,NAN,Queued_Awaiting Assignment,Medium,PROD412,18.990147780038935,1-758488261,Role 1
+Org line C,Sweden,Christoffer,se,V3_2,Accepted_In Progress,Medium,PROD412,18.990366448235307,1-758488261,Role 1
+Org line G4,Sweden,Viktoria,se,NAN,Queued_Awaiting Assignment,Medium,PROD412,18.99036655006188,1-758488261,Role 1
+Org line G4,Sweden,Christoffer,se,NAN,Accepted_In Progress,Medium,PROD412,18.990366623603283,1-758488261,Role 1
+Org line C,USA,Robert,us,E_4,Accepted_In Progress,Medium,PROD436,18.990088264592092,1-758494760,Role 1
+Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,Medium,PROD436,18.990090001782626,1-758494760,Role 1
+Org line A2,Sweden,Lotta,us,A2_2,Accepted_In Progress,Medium,PROD436,18.990091201404294,1-758494760,Role 1
+Org line C,USA,Robert,us,E_4,Accepted_In Progress,Medium,PROD436,18.990091359844783,1-758494760,Role 1
+Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,High,PROD436,18.990094449429325,1-758528371,Role 1
+Org line A2,Sweden,Maria,se,A2_4,Accepted_In Progress,High,PROD591,18.990378407129633,1-758672701,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.99037794325844,1-758685504,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.990426201679984,1-758685504,Role 1
+Org line C,Belgium,Christophe,be,V3_2,Accepted_In Progress,Medium,PROD815,18.990377270079133,1-758719001,Role 1
+Org line C,Belgium,Christophe,be,V3_2,Accepted_Wait,Medium,PROD815,18.990447453653786,1-758719001,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.99041076444271,1-758730027,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.990428283341235,1-758730027,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_In Progress,Medium,PROD802,18.990419407967327,1-758763414,Role 1
+Org line C,Sweden,Pankaj,in,E_10,Accepted_Wait,Medium,PROD802,18.99079191360797,1-758763414,Role 1
+Org line C,Sweden,Bikshamaiah,in,E_8,Accepted_In Progress,High,PROD597,18.990420448805565,1-758764831,Role 1
+Org line G4,Sweden,Bharath,se,NAN,Accepted_In Progress,Medium,PROD304,18.990440337658555,1-758781027,Role 1
+Org line G4,Sweden,Bharath,se,NAN,Accepted_Assigned,Medium,PROD304,18.99044329040676,1-758781027,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Low,PROD236,18.990443115052226,1-758784721,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Low,PROD236,18.9904435619234,1-758784721,Role 1
+Org line C,Sweden,Rohit,in,E_10,Accepted_In Progress,Medium,PROD802,18.990446667389712,1-758784862,Role 1
+Org line C,Sweden,Rohit,in,E_10,Accepted_Wait,Medium,PROD802,18.99079740423448,1-758784862,Role 1
+Org line G4,Sweden,Rickard,se,NAN,Accepted_In Progress,Medium,PROD374,18.990472794783575,1-758849852,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.990499900031253,1-758914871,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.990500465658812,1-758914871,Role 1
+Org line C,Sweden,Andreas,se,C_6,Accepted_In Progress,High,PROD802,18.990528395949763,1-758976470,Role 1
+Org line C,Sweden,Jörgen,us,E_4,Accepted_In Progress,High,PROD348,18.99054022281842,1-758983319,Role 1
+Org line C,USA,Robert,us,E_4,Accepted_In Progress,Medium,PROD793,18.9905168913436,1-758989918,Role 1
+Org line C,USA,Robert,us,E_4,Queued_Awaiting Assignment,Medium,PROD793,18.990518328012566,1-758989918,Role 1
+Org line C,USA,Jay,us,E_4,Accepted_In Progress,Medium,PROD793,18.990528373325297,1-758989918,Role 1
+Org line C,Sweden,Kåre,be,E_1,Accepted_In Progress,High,PROD821,18.990577043020355,1-759020352,Role 1
+Org line B,INDIA,Rijin,in,E_10,Accepted_In Progress,Medium,PROD10,18.99083515359606,1-759169644,Role 1
+Org line C,Sweden,Ranveer,in,E_10,Accepted_In Progress,Low,PROD805,18.990880223653164,1-759255125,Role 1
+Org line C,Sweden,Ranveer,in,E_10,Accepted_Wait,Low,PROD805,18.990880777757397,1-759255125,Role 1
+Org line A2,POLAND,Hanna,gb,A2_1,Accepted_In Progress,Low,PROD236,18.99088575902758,1-759255152,Role 1
+Org line A2,POLAND,Hanna,gb,A2_1,Accepted_In Progress,Low,PROD236,18.990889117554424,1-759255152,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_In Progress,Medium,PROD236,18.990899560578463,1-759318221,Role 1
+Org line A2,United Kingdom,Ian,gb,A2_1,Accepted_Assigned,Medium,PROD236,18.990900453912758,1-759318221,Role 1
